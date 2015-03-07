@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /about_me/
+title: About
+permalink: /about/
 ---
 
 I’m Auriel Fournier and I’m currently pursuing a PhD in Biology at the University of Arkansas through the [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/).
