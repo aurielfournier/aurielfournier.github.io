@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
 I’m Auriel Fournier and I’m currently pursuing a PhD in Biology at the University of Arkansas through the Arkansas Cooperative Fish and Wildlife Research Unit.
 
 My research is looking at secretive marshbirds, specifically rails and trying to better understand their fall migration and habitat use as it relates to active wetland management, especially in mid-latitude states in the U.S., like Missouri.
