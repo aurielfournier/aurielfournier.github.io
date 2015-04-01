@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I’m Auriel Fournier and I’m currently pursuing a PhD in Biology at the University of Arkansas through the [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/).
+I’m Auriel Fournier and I’m currently pursuing a PhD in Biology at the University of Arkansas through the Arkansas Cooperative Fish and Wildlife Research Unit.
 
 My research is looking at secretive marshbirds, specifically rails and trying to better understand their fall migration and habitat use as it relates to active wetland management, especially in mid-latitude states in the U.S., like Missouri.
 
@@ -18,8 +18,9 @@ My goal is to do work that promotes bird conservation and to help connect the pe
 
 If you’re a teacher, I’m always happy to speak to your class or organization about bird migration, ecology and conservation (in person or over Skype). If you’re a journalist, I’m always happy to answer questions for your story.
 
-Feel free to contact me with any questions at aurielfournier@gmail.com, or on twitter [@RallidaeRule](twitter.com/rallidaerule)
+Feel free to contact me with any questions at aurielfournier@gmail.com, or on twitter   
 
+[@RallidaeRule](twitter.com/rallidaerule)
 [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)
 [Github](https://github.com/aurielfournier)
 [ORCID](http://orcid.org/0000-0002-8530-9968)
@@ -28,4 +29,4 @@ Feel free to contact me with any questions at aurielfournier@gmail.com, or on tw
 
 ### Non-Peer Reviewed Writing
 
-I've written for [GradHacker](https://www.insidehighered.com/blogs/gradhacker), [NemesisBird](http://www.nemesisbird.com/)
+I've written for [GradHacker](https://www.insidehighered.com/blogs/gradhacker) & [NemesisBird](http://www.nemesisbird.com/)
