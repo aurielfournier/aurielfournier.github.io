@@ -1,3 +1,8 @@
+---
+layout: post
+title: Why I love what I study
+---
+
 I originally wanted to call this 'why I love birds' but I realized that my urge to write this comes not really from my love of all things with feathers, but from my passion for what I do, and the sadness I sometimes feel when others try to tell me my passion is bad, or don't have passion of their own towards their own science.
 
 Whenever someone makes a snarky comment at me like
