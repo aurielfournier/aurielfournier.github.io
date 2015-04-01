@@ -18,27 +18,14 @@ My goal is to do work that promotes bird conservation and to help connect the pe
 
 If you’re a teacher, I’m always happy to speak to your class or organization about bird migration, ecology and conservation (in person or over Skype). If you’re a journalist, I’m always happy to answer questions for your story.
 
-Feel free to contact me with any questions at aurielfournier@gmail.com, or on twitter @RallidaeRule
+Feel free to contact me with any questions at aurielfournier@gmail.com, or on twitter [@RallidaeRule](twitter.com/rallidaerule)
 
-C.V. 
-Google Scholar
-Github
-Google Plus
-Linked In
-ORCID
-Arkansas Coop Website 
-Academia.edu
-Research Gate
-——————————————–
-Non-Academic Writing
-——————————————–
-Blogger at Natural Austerity
-Guest Post on Grad Hacker : ‘Family Ties and Grad School Whys’
-Guest post on Nemesis Bird: ‘Wetland Management and Rails’
-——————————————–
-Featured In:
-——————————————–
-http://www.mtu.edu/forest/undergraduate/profiles/van-der-laar.html  
-http://blogs.mtu.edu/forest/2011/05/10/area-schools-view-raptor-migration/
-http://ohioyoungbirders.org/past_activities/20081004_annual_conference.html
-http://www.newspressnow.com/sports/outdoors/article_2cb00441-292a-54b5-809a-8a63e4f26cf5.html
+[Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)
+[Github](https://github.com/aurielfournier)
+[ORCID](http://orcid.org/0000-0002-8530-9968)
+[Academia.edu](https://uark.academia.edu/AurielMVFournier)
+[Research Gate](http://www.researchgate.net/profile/Auriel_Fournier)
+
+### Non-Peer Reviewed Writing
+
+I've written for [GradHacker](https://www.insidehighered.com/blogs/gradhacker), [NemesisBird](http://www.nemesisbird.com/)
