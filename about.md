@@ -29,4 +29,12 @@ Feel free to contact me with any questions at aurielfournier@gmail.com, or on tw
 
 ### Non-Peer Reviewed Writing
 
-I've written for [GradHacker](https://www.insidehighered.com/blogs/gradhacker) & [NemesisBird](http://www.nemesisbird.com/)
+I've written for [GradHacker](https://www.insidehighered.com/blogs/gradhacker), [NemesisBird](http://www.nemesisbird.com/) & [Dispatches from the Field](https://dispatchesfromthefield1.wordpress.com/2015/04/03/turning-over-the-keys-when-it-becomes-your-field-work/)  
+
+[Family Ties and Grad School Whys : Gradhacker](http://www.gradhacker.org/2013/12/11/6381/)  
+[The Rallidae Rock : NemesisBird](http://www.nemesisbird.com/bird-science/rallidae-rock/)  
+[Wetland Management for Rails and Finding Tips : NemesisBird](http://www.nemesisbird.com/bird-science/wetland-management-for-rails/)
+[How Long Do Indigo Buntings Live? : NemesisBird](http://www.nemesisbird.com/bird-science/long-indigo-buntings-live/)    
+[Turning Over the Keys: When it Becomes Your Field Work](https://dispatchesfromthefield1.wordpress.com/2015/04/03/turning-over-the-keys-when-it-becomes-your-field-work/)
+
+
