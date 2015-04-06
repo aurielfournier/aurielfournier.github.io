@@ -17,7 +17,7 @@ Last week I drove 12 hours across New Mexico, Northern Texas and Oklahoma, not t
 
 I think other critters (be they very big or very small) are also <span style="text-decoration: underline;">REALLY COOL</span>, and so are other systems, other branches of science, other branches of human knowledge, etc. etc. My brothers are all computer/engineering types, and I love hearing about the work they do. My mom is an accountant, and what she does is awesome as well (even if I don't understand most of it :). We need people who study and love all kinds of things, and my thing is birds.
 
-I love studying birds because they are dynamic and interesting, they live most everywhere, overcome crazy challenges, migrate thousands of miles, have crazy behaviors, and are also really important for the continued functioning of our ecosystem. I love science, <a href="http://aurielmvfournier.com/2014/04/i-love-science-because/">and have already written a bit on that.</a>
+I love studying birds because they are dynamic and interesting, they live most everywhere, overcome crazy challenges, migrate thousands of miles, have crazy behaviors, and are also really important for the continued functioning of our ecosystem. I love science, <a href="https://aurielfournier.github.io/I-love-science-because/">and have already written a bit on that.</a>
 
 Despite what some scientists have told me (I hope they were joking) the world would be a much different place if all the birds disappeared, and not in a good way. Just like if all the fish disappeared, or all the insects, or all the trees, each one is very important.
 
