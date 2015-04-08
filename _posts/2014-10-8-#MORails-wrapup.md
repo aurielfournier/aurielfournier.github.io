@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MORails 2014 Wrapup
+tags: #MORails
 ---
 
 Every year of fieldwork I do seems like an additional argument for Murphy's Law and Long-Term Research. No two years are alike, and this year was the year of thunderstorms and rain. 2012 was a drought and 2013 was drought-like (it rained earlier in the year, but not much during the season). Despite the weather's best efforts we were able to get in all the surveys we needed to complete and picked up on some weird patterns along the way. This year had no clear peak in migration (unlike the previous two field seasons) though we saw essentially the same number of birds, they just came through at a more steady rate throughout the year.
