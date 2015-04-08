@@ -5,17 +5,32 @@ tags: passion science
 ---
 
 
+A few weeks back I had a series of conversations with some other scientists who decided to tell me different variations of 'birds aren't important' 'people who work on birds lack creativity' 'you aren't as good of a scientists because you work on a charismatic animal'.
 
-Science is all about discovering new things, whether its information new to humanity as a whole or just to yourself. The moment of discovery is what drives many of us in science. As I'm studying for my comprehensive exams I am having a lot of these moments. Things are clicking together. I am forming connections between papers and ideas which had never occurred to me before. Constant discovery is what makes all my studying so addictive, even when it takes me two hours to get through a paper because I'm going to Google every other paragraph for another explanation.
+I'm used to non-scientists asking me why working on birds is important. I'm also used to the good-natured rivalry between different taxa and fields within ecology. We have a good back and forth between our lab and the fisheries lab next door, all in good fun. But these comments weren't like those and they got under my skin. I wasn't entirely sure how to respond to any of the comments I got, and probably did a poor job in the moment so I reached out the twittersphere for some input.
+talked to multiple scientists today who tried to belittle working with birds and the importance of studying them in any capacity (1/2)
+— Auriel Fournier (@amv_fournier) January 24, 2014
 
-No, I'm not discovering these ideas for the first time, many of these papers are 20 or 30 years old, but the ideas are new to me, and putting them together is challenging, it makes my mind stretch and it's honestly pretty fun.
+I understand the argument that birds get more money then some other taxa, and I appreciate that frustration, but to deny their importance?
+— Auriel Fournier (@amv_fournier) January 24, 2014
 
-It reminds me of last fall when I was out with my technicians trying to catch rails one night in Missouri and one of them hops of the ATV to go through a net over a Sora and it 'disappears'. I'm 20 meters back trying to see what is going on and I suddenly just hear yelling
+I got some great feedback, including thinking about myself and my career as studying a system rather then a taxa and how being system oriented might make me more marketable (good food for thought, especially this post from The Lab and Field). I need to mull over how I identify myself as a scientist some more though before writing up my complete thoughts, so look for that in the future sometime.
 
-'It's swimming underwater!!'
+What I got immediately from this conversation were many of comments saying of course birds are important, just like every other taxa is important and if another scientist is belittling your taxa, it's probably because of their issues, not your own. Maybe they are at a low point or lacking the passion I often exhibit for birds.
 
-I thought they were nuts, I'd never heard of rails swimming underwater before but my techs pursued the bird for several more minutes and it swam underwater several times. Sora, swimming UNDERWATER, it blew my mind.
+This last comment really hit home for me. Many of my peers have lost their passion and never get excited about science anymore. Many are planning on leaving science after they graduate because its just stress and long hours now. Sadly, I feel sometimes I alienate my friends with my excitement about rails, migration and science as whole. Especially when my passion for all things rail pours into excitement for the statistics, writing and all the other pieces of grad school required to study the sneaky little guys. I know that without my passion, I couldn't be successful a graduate student and this quote from Kristopher Helgen summed this feeling up perfectly.
 
-Later I told my adviser, partially convinced I had found something new. Of course it isn't, he's seen them dive underwater before. I don't mind not discovering something new though. Just because it's not new information doesn't diminish the moment we discovered it, the excitement in my techs voices as they tried to tell me what they were seeing is etched in my memory.
+@ShamanSciences @amv_fournier @derekhennen Yes! Never let anyone dent your passion/excitement/motivation. That's science rocket fuel!
+— Kristofer Helgen (@khelgen) January 24, 2014
 
-Its easy to get wrapped up in the rest of science which follows discovery but I think its important to reflect back and capture these burst of energy and new information. Science is more then just writing papers, it's about learning, both things new to use, and new to everyone. It is the pursuit of knowledge which drives us, or is driving me at least as I work my way through all the material for my comps.
+I personally could not agree more. When I started grad school I noticed that some saw my passion as childish behavior. They seem to think science should be done for the sake or progress, or grants, or fame.
+
+I totally disagree, loving your system or your organism is not a bad thing especially if it helps keep you motivated. Passion is 'science rocket fuel' and I don't think it should ever be belittled, no matter if the organism is a widely loved charismatic species or more misunderstood one. Sure grad school isn't all sunshine and rainbows and there are days that even my passion can't save me from the stress load or endless road blocks but I want to help conserve our natural resources, including my favorite taxa, birds. I've committed myself to this PhD and to helping promote conservation through research, even on the bad days. I've got this strip from PhDComics taped above my desk to help ground me on those days when things seem bleak.
+
+![](http://www.phdcomics.com/comics/archive/phd032202s.gif)
+
+
+
+I am grateful to have the wonderful community on twitter to help set my head straight when I get caught up in the naysayers and once again I am choosing to use the passion that I have to motivate me everyday, from field work to writing and data analysis and all the fun in-between. I hope that this passion is not held against me as I continue on in my career and I plan to help encourage it in those around me.  Have any of you ever faced similar situations where everyone around you seems passionless or your excitement for a certain species or taxa is belittled? I'd love to hear about how you dealt with it or how it's changed your perspective on science!
+
+To see the whole conversation on twitter click here.
