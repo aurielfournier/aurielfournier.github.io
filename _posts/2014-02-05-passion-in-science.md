@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Passion in Science : Childish behavior or science rocketfuel?
+title: Passion in Science - Childish behavior or science rocketfuel?
 tags: passion science
 ---
 
