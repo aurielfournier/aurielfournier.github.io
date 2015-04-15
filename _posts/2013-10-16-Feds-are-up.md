@@ -1,6 +1,7 @@
 ---
 layout: post
 title: /#MORails 2013 - Feds are up and running an so are we!
+tag: /#MORails 
 ---
 
 So the federal shutdown ended, thank goodness, just in time so that my fourth round of surveys was not destroyed. The state properties are only available to us to survey through october 15th so all of our surveys after that date are just on the National Wildlife Refuges, which were closed during the shutdown, thankfully though they are open now and we are back in business.
