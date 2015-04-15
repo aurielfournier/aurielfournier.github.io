@@ -1,3 +1,7 @@
+---
+layout: post
+title: Tracking the Louisiana Warbler
+---
 
 
 Can you see the tiny clear antennae sticking
