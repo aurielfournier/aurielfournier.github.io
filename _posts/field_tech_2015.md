@@ -1,0 +1,37 @@
+---
+layout: post
+title: Hiring Field Technician for Fall 2015
+---
+
+Marsh Bird Field Technician: Missouri
+
+University of Arkansas Fish and Wildlife Cooperative Research Unit
+
+Location Missouri-Statewide
+
+Salary 9.23/hour 40 hours/week & $5/day per diem for each day in the field.
+
+Start Date 08/10/2015
+
+Last Date to Apply 6/15/2013
+
+Description
+One research technician is needed to assist with a study that aims to determine how wetland management influences the distribution and habitat use of secretive marsh birds and waterfowl on Missouri public wetlands.
+
+Duties will include conducting nocturnal spotlight surveys by ATV in marsh impoundments for rails, capturing rails at night with hand nets, banding rails, taking vegetation measurements, maintaining equipment and data entry. Job sites will be located at 10 state and federal properties clustered in 4 regions of Missouri. The crew will travel between study areas in the provided field vehicle.
+
+Field housing will be provided for the crew at each of the four regions and we move ever 4-5 days. This housing is communal and varies from region to region, always with shared sleeping/living spaces. You need to be able to drive long hours by yourself or with one other person. You also need to be comfortable being out in the marsh on your own at night, while collecting detailed data and being safe. Working conditions will entail long and irregular hours in variable weather (from very hot to damp and cold) for 6 days/week. We work in the rain, and potentially the snow.
+
+The position will be from August 10, 2015 to October 31, 2015. You will need to arrive Fayetteville, AR by Noon on August 10, 2015, you may arrive as early as August 8th. After you arrive in Fayetteville you will not need a personal vehicle, we have a secure location for your vehicle to stay while we are in the field.
+
+Qualified applicants must have bird identification skills, a valid U.S. driver’s license with a clean driving record, and a strong work ethic. Preference will be given to applicants who have or are working towards a bachelor’s degree in Biology, Fisheries and Wildlife, Ecology, or a related field. Experience operating ATVs and 4WD trucks with trailers is strongly desired. Experience identifying wetland plants is a huge bonus. Preferred applicants will have at least one year of field experience, be able to demonstrate an ability to safely operate an ATV and truck/trailer and be interested in birds. 
+
+To apply, please submit a cover letter, resume, and contact information for 3 references to Auriel Fournier at the contact information provided below IN A SINGLE DOCUMENT (preferred pdf). In the cover letter, please speak to your experience with ATVs and driving trucks/trailers and why you are interested in this position.
+
+Enter 'Marsh Bird Field Technician' in the subject line.
+
+Applications will be reviewed as soon as they are received and hiring may take place before the end date. An email will be sent out to all applicants after all technicians have been hired.
+
+Contact Person Auriel Fournier, 
+Contact Phone - (419) 307.6261
+Contact eMail - aurielfournier@gmail.com
