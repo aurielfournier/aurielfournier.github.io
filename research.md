@@ -33,6 +33,10 @@ Understanding the timing and connectivity of seasonal movements of individuals b
 
 ## Past Projects
 
+- In Review **Fournier, A.M.V.#**, Sullivan, A.R.#, Bump, J.K., Perkins, M., Shieldcastle, M.C, King, S.L.  Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (Rallus limicola) 
+- /# First two authors contributed equally
+
 - Migratory Timing and Habitat Use in the Lake Erie Marshes (In review Waterbirds)
 
-- Developing Morphometric Models to Predict the Sex of Virginia Rail (Rallus limicola) [2013] The Wildlife Society Bulletin Volume 37, Issue 4.  [pdf](https://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/amvander/intellcont/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola)-1.pdf)
+- 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. Developing a morphometric model
+to predict the sex of Virginia Rails (Rallus limicola). The Wildlife Society Bulletin 27: 881-886 [pdf](https://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/amvander/intellcont/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola)-1.pdf)
