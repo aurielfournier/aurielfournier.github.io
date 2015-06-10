@@ -20,12 +20,13 @@ If you’re a teacher, I’m always happy to speak to your class or organization
 
 Feel free to contact me with any questions at aurielfournier@gmail.com, or on twitter   
 
-[@RallidaeRule](twitter.com/rallidaerule)
-[Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)
-[Github](https://github.com/aurielfournier)
-[ORCID](http://orcid.org/0000-0002-8530-9968)
-[Academia.edu](https://uark.academia.edu/AurielMVFournier)
-[Research Gate](http://www.researchgate.net/profile/Auriel_Fournier)
+[@RallidaeRule](twitter.com/rallidaerule) |
+[Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) |
+[Github](https://github.com/aurielfournier) |
+[ORCID](http://orcid.org/0000-0002-8530-9968) |
+[Academia.edu](https://uark.academia.edu/AurielMVFournier) |
+[Research Gate](http://www.researchgate.net/profile/Auriel_Fournier) |
+[Publons](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile) 
 
 ### Non-Peer Reviewed Writing
 
