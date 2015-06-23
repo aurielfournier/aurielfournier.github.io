@@ -103,3 +103,12 @@ Sometimes you will interview for a job, and leave the interview with a weird fee
 Getting your first field job is daunting, and can be very difficult. Don't take it to hard when you send out dozens of resumes and don't get dozes of job offers (and yes, I encourage you to apply widely, especially at first). Don't limit yourself geographically if you can, don't limit yourself to a system or taxa, find projects that sound fun, that sound challenging, that sound like places you can grow. Field work is the best (except when its not) enjoy it. 
 
 _I haven't figured out comments on github yet, so if you have thoughts tweet at me (@RallidaeRule) or email me (aurielfournier@gmail.com). I'll make edits to expand this advice._
+
+
+### Additions
+
+- Put everything in _one_ file with your full name in the file name  
+This makes it _so_ much easier for the person doing the hiring to work through files and find what they need. Its amazing how many files you end up with entited 'resume'. 
+
+- Assume that you will be googled  
+I chose not to do this, for a variety of reasons, but many employers will google you, or search for you on twitter or other social media. Make sure you are ok with what comes up when they do so. Best way to check this is to open an incognito window in a browser so you don't get searches based on your cookies, and search for yourself. Click through a few pages of results, you might be surprised. 
