@@ -3,7 +3,7 @@ layout: post
 title: 2015 AFO/SCO-SOC/WOS Meeting Presentation
 ---
 
-I'm giving a presentation today at the Association of Field Ornithology / Society of Candian Ornithologists / Wilson Ornithological Society Joint Meeting in Wolfville, Nova Scotia today. 
+I'm giving a presentation today at the Association of Field Ornithology / Society of Canadian Ornithologists / Wilson Ornithological Society Joint Meeting in Wolfville, Nova Scotia today. 
 
 Its covering part of my first dissertation chapter, looking at the timing and habitat use of Sora during autumn migration. 
 
