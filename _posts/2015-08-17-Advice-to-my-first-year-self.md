@@ -66,3 +66,8 @@ These are my thoughts, based on my first three years of graduate school. I come 
 
 - Be yourself, being a women in STEM can be a little scary, and intimidating, but you can totally handle it. Just remember to be you, whether that person is super feminine and loves to wear heels or if that person would rather wear jeans and converse every day. STEM is a diverse and wonderful community and we are better for having you in it. 
 
+
+## Edit 8/23/2015 - Additional Thoughts
+
+- Listen to everyone, but don't take everyone's advice. Mine included. Most people giving advice are trying to be helpful, BUT their advice may not fit your situation, or they may have another agenda. Find people you can trust to bounce advice off of, and learn to sift through the B.S.
+
