@@ -35,8 +35,7 @@ Summer 2015 I worked with partners in Bird Studies Canada to collect feathers fr
 
 ## Past Projects
 
-- In Review **Fournier, A.M.V.#**, Sullivan, A.R.#, Bump, J.K., Perkins, M., Shieldcastle, M.C, King, S.L.  Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (Rallus limicola) 
-- /# First two authors contributed equally
+- In Review **Fournier, A.M.V.%**, Sullivan, A.R.%, Bump, J.K., Perkins, M., Shieldcastle, M.C, King, S.L.  Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (Rallus limicola) %First two authors contributed equally
 
 - 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA. Waterbirds 38(3) 312-314 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1675/063.038.0313
 
