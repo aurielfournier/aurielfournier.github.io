@@ -25,6 +25,7 @@ Feel free to contact me with any questions at aurielfournier@gmail.com, or on tw
 [BreakingBio Podcast](http://breakingbio.com/2015/11/10/bb94-rallying-for-rails-with-auriel-fournier/)  
 [Show me the rails - University of Arkansas Field Notes Blog](http://researchfrontiers.uark.edu/2015/show-me-the-rails/)  
 [Working the Night Shift - University of Arkansas Field Notes Blog](http://researchfrontiers.uark.edu/2015/headline-here/)
+[Arkansas grad student hopes to track birds as they migrate through Missouri - St Joseph News-Press](http://www.newspressnow.com/sports/outdoors/article_2cb00441-292a-54b5-809a-8a63e4f26cf5.html)
 
 ### Other Places to find me
 
