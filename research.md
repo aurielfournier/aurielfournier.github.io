@@ -38,7 +38,7 @@ Summer 2015 I worked with partners in Bird Studies Canada to collect feathers fr
 - In Review **Fournier, A.M.V.#**, Sullivan, A.R.#, Bump, J.K., Perkins, M., Shieldcastle, M.C, King, S.L.  Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (Rallus limicola) 
 - /# First two authors contributed equally
 
-- 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA. Waterbirds 38(3) In Press
+- 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA. Waterbirds 38(3) 312-314 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1675/063.038.0313
 
 - 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. Developing a morphometric model
-to predict the sex of Virginia Rails (Rallus limicola). The Wildlife Society Bulletin 27: 881-886 [pdf](https://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/amvander/intellcont/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola)-1.pdf)
+to predict the sex of Virginia Rails (Rallus limicola). The Wildlife Society Bulletin 27: 881-886 [pdf](https://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/amvander/intellcont/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola)-1.pdf) doi:10.1002/wsb.323
