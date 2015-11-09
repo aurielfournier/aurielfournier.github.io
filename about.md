@@ -20,6 +20,14 @@ If you’re a teacher, I’m always happy to speak to your class or organization
 
 Feel free to contact me with any questions at aurielfournier@gmail.com, or on twitter   
 
+### My project has been highlighted in several blog posts and pod casts
+
+[BreakingBio Podcast](http://breakingbio.com/2015/11/10/bb94-rallying-for-rails-with-auriel-fournier/)  
+[Show me the rails - University of Arkansas Field Notes Blog](http://researchfrontiers.uark.edu/2015/show-me-the-rails/)  
+[Working the Night Shift - University of Arkansas Field Notes Blog](http://researchfrontiers.uark.edu/2015/headline-here/)
+
+### Other Places to find me
+
 [@RallidaeRule](twitter.com/rallidaerule) |
 [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) |
 [Github](https://github.com/aurielfournier) |
