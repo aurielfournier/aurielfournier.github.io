@@ -4,7 +4,7 @@ title: Outreach and Education
 permalink: /outreach_education/
 ---
 
-
+![Imgur](http://i.imgur.com/opa2Fni.jpg?1)
 
 Education is a vital part of the research cycle and I am always looking for opportunities to get the public involved in whatever I am doing, because if they are not invested in our research and our natural resources, we’re not going to have these amazing animals and places to continue to study and explore. 
 
