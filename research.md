@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+![Imgur](http://i.imgur.com/yHxjdug.jpg?1)
+
 # Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails in Intensively Managed Wetland Complexes in Missouri
 
 
