@@ -41,8 +41,10 @@ Feel free to contact me with any questions at aurielfournier@gmail.com, or on tw
 
 ### Non-Peer Reviewed Writing
 
-I've written for [GradHacker](https://www.insidehighered.com/blogs/gradhacker), [NemesisBird](http://www.nemesisbird.com/) & [Dispatches from the Field](https://dispatchesfromthefield1.wordpress.com/2015/04/03/turning-over-the-keys-when-it-becomes-your-field-work/)  
+I've written for [GradHacker](https://www.insidehighered.com/blogs/gradhacker), [NemesisBird](http://www.nemesisbird.com/) & [Dispatches from the Field](https://dispatchesfromthefield1.wordpress.com/2015/04/03/turning-over-the-keys-when-it-becomes-your-field-work/) [ScienceBorealis](http://blog.scienceborealis.ca/tag/auriel-fournier/)
 
+[World Wetlands Day: The Hunter and the data cruncher: Science Borealis](http://blog.scienceborealis.ca/world-wetlands-day-the-hunter-and-the-number-cruncher/)  
+[Why is there error in statistics: Science Borealis](http://blog.scienceborealis.ca/why-is-there-error-in-statistics/)  
 [Family Ties and Grad School Whys : Gradhacker](http://www.gradhacker.org/2013/12/11/6381/)  
 [The Rallidae Rock : NemesisBird](http://www.nemesisbird.com/bird-science/rallidae-rock/)  
 [Wetland Management for Rails and Finding Tips : NemesisBird](http://www.nemesisbird.com/bird-science/wetland-management-for-rails/)  
