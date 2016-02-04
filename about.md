@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Imgur](http://i.imgur.com/Ae4lZ6y.jpg?1)
+![](http://i.imgur.com/Ae4lZ6y.jpg?1)
 
 I’m Auriel Fournier and I’m currently pursuing a PhD in Biology at the [University of Arkansas](www.uark.edu) through the [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/).
 
