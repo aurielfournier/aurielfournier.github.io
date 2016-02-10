@@ -41,6 +41,7 @@ Feel free to contact me with any questions at aurielfournier@gmail.com, or on tw
 
 I've written for [GradHacker](https://www.insidehighered.com/blogs/gradhacker), [NemesisBird](http://www.nemesisbird.com/) & [Dispatches from the Field](https://dispatchesfromthefield1.wordpress.com/2015/04/03/turning-over-the-keys-when-it-becomes-your-field-work/) [ScienceBorealis](http://blog.scienceborealis.ca/tag/auriel-fournier/)
 
+[R in Ecology: Domino Data Blog](http://blog.dominodatalab.com/r-in-ecology/)  
 [World Wetlands Day: The Hunter and the data cruncher: Science Borealis](http://blog.scienceborealis.ca/world-wetlands-day-the-hunter-and-the-number-cruncher/)  
 [Why is there error in statistics: Science Borealis](http://blog.scienceborealis.ca/why-is-there-error-in-statistics/)  
 [Family Ties and Grad School Whys : Gradhacker](http://www.gradhacker.org/2013/12/11/6381/)  
