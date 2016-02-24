@@ -1,3 +1,3 @@
-slowly moving over from my wordpress site
+My professional website/blog. 
 
-slowly
+Questions/comments @RallidaeRule and aurielfournier@gmail.com
