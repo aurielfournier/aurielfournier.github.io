@@ -2,6 +2,7 @@
 layout: post
 title: \#studyingforcomps the moment of discovery
 tags: studyingforcomps
+comments: true
 ---
 
 

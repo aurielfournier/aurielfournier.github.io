@@ -3,6 +3,7 @@ layout: post
 title: MORails 2014 round 1
 tags: 
 - MORails
+comments: true
 ---
 
 Each season of my project is broken down into four rounds of surveys. We visit each region of the state four times and we've just finished up our first set of visits to each region.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Software Carpentry Workshop Wrapup
+comments: true
 ---
 In March I coordinated a [Software Carpentry](software-carpentry.org) workshop here at the University of Arkansas. We did a two-day workshop on R, the Unix Shell and Git and it was very well received. A few people have asked me to write up my thoughts on planning the workshop, the workshop itself, etc, so here it goes. 
 

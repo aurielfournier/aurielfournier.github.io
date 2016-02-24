@@ -2,6 +2,7 @@
 layout: post
 title: Planning your field work? Have you thought about safety?
 tags: safety; machoism; diversity; fildwork
+comments: true
 ---
 
 This post was originally peeked by a thread on reddit about [lab safety horror stories](https://www.reddit.com/r/AskReddit/comments/32wr0v/serious_scientists_of_reddit_what_is_the_worst/), and is in fact horrifying. My experience lies in a different realm, field work, where safety is often also a big issue, though the guidelines around it are often missing, or totally ignored. I chatted very briefly with a few folks about this on twitter a week or so ago and my initial wanting to write this post was dampened by the realization that like the reddit post, this may spark a string of 'oh you did that dangerous thing, mine was so much more dangerous' and further fuel the masochistic dangerous mindset that often hangs over fieldwork and is very alienating to many, and dangerous for everyone. 

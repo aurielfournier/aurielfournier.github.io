@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2013 Annual Coop Report
+comments: true
 ---
 
 In April all of the students in the [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/) presented to our cooperators on our projects for the 2013 fiscal year. Its a great way for all of us get feedback and make sure that our projects are still answering the questions that started the projects.

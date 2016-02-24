@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tips for tweeting from @RealScientists and @Biotweeps
+comments: true
 ---
 Last fall I tweeted from @RealScientists and @BioTweeps as part of the outreach for my fall field work (#MORails). I choose to do this during my field work since live tweeting rail captures is WAY more exciting then live tweeting running R code or writing which is what I do the other 9 months of the year. 
 

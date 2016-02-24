@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tracking the Louisiana Warbler
+comments: true
 ---
 
 

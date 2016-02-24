@@ -2,6 +2,7 @@
 layout: post
 title: \#Studyingforcomps - Carving Out Time
 tags: studyingforcomps
+comments: true
 ---
 
 My comps are coming up fast (8 days!!) and the end of the semester is finally past, FINALLY. The past two months have been a bit of a wake up call about how I need to take care of myself as well as my work. In the spirit of taking care of myself, I'm carving out a few minutes to breathe and share a bit more of my comps process.

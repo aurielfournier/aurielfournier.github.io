@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Advice to my first year graduate student self
+comments: true
 ---
 
 In response to a request from a friend who is just starting her PhD, here is what I wish I could tell my first year PhD Student self, and what advice I can give to other graduate student Women in STEM. This was written during the first week of my field season, so the thoughts are short, but I am happy to discuss them more if folks have questions or comments. 

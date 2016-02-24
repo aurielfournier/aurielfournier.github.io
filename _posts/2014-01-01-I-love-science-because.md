@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I Love Science Because
+comments: true
 ---
 
 I love science because the idea a bird can FLY from continent to continent twice a year and come back to the same place, amazes me. I love things with wings, with feathers, with elaborate songs and displays. I love birds, and I have since I was young, (granted I still am, so lets just say, younger). I love how many different ways there are to move from place to place throughout the year. So many different strategies and ideas. I love the fact that migration has captured the human imagination for millenia and connects people across languages and cultures.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Apply for a Field Job
+comments: true
 ---
 
 I've been on both sides of the problem for several years now. I spent years applying for field technician positions, interviewing, and snagging a few, now I just finished hiring for my fourth field season of my PhD fieldwork. I'm something of a questioner, I'm always asking people for their thoughts on how to do things, and I've picked many brains about how to apply for field jobs and here are my take aways, for those who are coming up in the ranks. 

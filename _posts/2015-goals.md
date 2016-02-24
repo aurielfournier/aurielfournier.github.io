@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2015 goals
+comments: true
 ---
 
 So every year I try to set goals, some are pretty big, ambitious ones, others more reasonable (Here are my lists from <a href="http://aurielmvfournier.com/2013/01/goals-for-2013/">2013</a> and <a href="http://aurielmvfournier.com/2014/01/goals-for-2014/">2014</a>). As you can see, I do not reach all my goals, not by a long shot in many cases.

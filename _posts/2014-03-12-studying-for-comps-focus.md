@@ -2,6 +2,7 @@
 layout: post
 title: \#studyingforcomps - focus techniques
 tags: studyingforcomps
+comments: true
 ---
 
 Staying focused is hard, being productive perhaps even more challenging. In grad school the challenge of focus is especially true because there are SO many things pulling for your attention. Your research, your classes, any teaching you do, writing grants, writing papers, presenting at conferences, and all the other tasks. It makes it easy to be very busy without actually doing anything.

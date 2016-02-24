@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Beautiful Fall Wetlands
+comments: true
 ---
 
 Not alot of birds out here at the end of October but the wetlands are beautiful as they go through their fall colors.

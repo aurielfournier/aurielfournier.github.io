@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Writing Letters of Recommendation
+comments: true
 ---
 
 One of the things I greatly enjoy and also find really challenging as a grad student is serving as a mentor to others, both undergraduates and the technicians that work for me during my field seasons. I love getting to know people, offering up my experiences and things that I've done and helping them understand the many many confusing paths that they might be able to take through their professional careers. After my techs work for me they of course go on to other jobs and opportunities and I get calls for references for them. I've been really lucky and had some fantastic techs so I am more then happy to pass that along to whatever their up to next, be that grad school or more field jobs. I'm just finishing up my third round of writing a letter of recommendation for one of my techs for graduate school. I find this a lot more challenging then just talking to someone on the phone. On the phone I know that I can better communicate the excitement that I feel about my techs and can give the person as much or as little detail as they want, a letter is totally one sided and I don't' want to come across and unenthusiastic. I want to communicate the strengths of each one of them, the reasons that they were such valuable members of my team and why I think they would be fantastic grad students. And that is hard. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Grad School - HOW?!?
+comments: true
 ---
 
 So now that I've managed to get into graduate school and am having a pretty good time thus far I've been getting lots of questions on what method I used to go about getting the position I did. This is a complex question, there is a lot that you need to do and think about and just about as many ideas on how to go about it. But since I keep getting asked here is my take, what I did, and what I've been told can help you along the way. Keep in mind, I'm still in my first year, so while I was successful in getting in only time will tell if I end up successful all the way around. 

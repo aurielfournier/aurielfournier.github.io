@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2015 AFO/SCO-SOC/WOS Meeting Presentation
+comments: true
 ---
 
 I'm giving a presentation today at the Association of Field Ornithology / Society of Canadian Ornithologists / Wilson Ornithological Society Joint Meeting in Wolfville, Nova Scotia today. 

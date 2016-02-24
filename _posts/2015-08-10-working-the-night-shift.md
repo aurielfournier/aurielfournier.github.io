@@ -1,6 +1,7 @@
 ---
 layout: post
 title: UArk Field Notes Blog Highlight - Working the Night Shift
+comments: true
 ---
 
 My work in Saskatchewan this summer was highlighted in the University of Arkansas Research Blog Field Notes recently.

@@ -2,6 +2,7 @@
 layout: post
 title: /#MORails 2015 Field Season By the Numbers
 tags: /#MORails, 
+comments: true
 ---
 
 72 nights  
@@ -23,7 +24,7 @@ tags: /#MORails,
 5 oil changes on ATVs  
 1 flat tire (ON THE FIRST DAY)  
 5 seasons of Breaking Bad watched  
-∞ +/- 1000 cups of tea and coffee consumed  
+ +/- 1000 cups of tea and coffee consumed  
   
 0 times running out of gas on the ATVS  
 0 times losing wallets  

@@ -2,6 +2,7 @@
 layout: post
 title: /#MORails - Boss or Leader
 tags: /#MORails, Leadership
+comments: true
 ---
 
 I've been really lucky in the past 10 years to experience a wide variety of leadership styles, some really inspiring and some really frustrating bosses. I've learned a lot from both and last fall I got my first real chance to implement them.

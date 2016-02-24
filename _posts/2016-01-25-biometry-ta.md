@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Biometry TA Spring 2016
+comments: true
 ---
 
 I'm already into my second week as the Teaching Assistant for the Undergrad/Graduate Biometry course here at UA. I am really excited to be teaching again this semester (I always forget how much I enjoy it) and doubly so since I get to teach people about R. I'm working on moving all the course materials over from systat to R, since this is the first time its being taught in R. If you are curious what we cover check out the [repo](https://github.com/aurielfournier/Biometry_Materials). 

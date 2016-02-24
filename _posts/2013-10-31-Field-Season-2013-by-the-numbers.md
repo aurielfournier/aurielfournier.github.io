@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2013 Field Season By the Numbers
+comments: true
 ---
 
 Field Season 2013 By The Numbers

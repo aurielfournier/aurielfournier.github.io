@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 7 things you may not know about rails
+comments: true
 ---
 
 So most people never see rails, and when they find out I work with rails they have a million questions. Most people are frustrated by rails, even the ones that are easier to see like Sora. I've had several people tell me that they don't actually exist. 

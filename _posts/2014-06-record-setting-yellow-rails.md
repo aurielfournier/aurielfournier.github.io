@@ -2,6 +2,7 @@
 layout: post
 title: Record Setting Yellow Rails
 tags: YellowRail, MORails
+comments: true
 ---
 
 One of the cool things that we've documented on my project is Yellow Rails in many places and in numbers that we did not expect. We observed over 30 of them in 2012 and 6 of them in 2013 (sadly in 2013 we probably missed several due to the federal shutdown).

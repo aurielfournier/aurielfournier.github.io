@@ -2,6 +2,7 @@
 layout: post
 title: \#StudyingForComps Tips and Suggestions
 tags: studyingforcomps
+comments: true
 ---
 Since I'm now on the other side of comps I've had a few people ask me for suggestions on how to prepare for their own. Here's a few thoughts.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Volunteer Field Technicians Are Bad for Wildlife Ecology
+comments: true
 ---
 
 
