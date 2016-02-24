@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Historic Women in Ornithology Reading Project
-commentIssueId: 1
+comments: true
 ---
 
 Sometime around American Thanksgiving I was asked on Twitter to recommend a few historic women in ornithology for someone's kid to research for a school paper. I sat there, stared at my screen and then hung my head. 
