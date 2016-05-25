@@ -12,7 +12,7 @@ or
 <blockquote>You choose birds because its easy, real science is done [insert other science here]</blockquote>
 I at first get mad. Not throwing things around the room mad, but face a little scrunched up, wanting to spew preschool level mean names at you mad (like 'you poopey booger butt face').
 
-I don't study birds because I think they are the only things out there, I don't study birds because its easy (its NOT), I don't study birds because I think its the only science worth doing. I study birds because when I was 12 a wonderful retired high school history teacher named Tom Kashmer was kind enough to let me tag along with him bird banding, and those birds grabbed a hold of me and have <strong>NEVER let go</strong>.
+I don't study birds because I think they are the only things out there, I don't study birds because its easy (its NOT), I don't study birds because I think its the only science worth doing. I study birds because when I was 8 a wonderful retired high school history teacher named Tom Kashmer was kind enough to let me tag along with him bird banding, and those birds grabbed a hold of me and have <strong>NEVER let go</strong>.
 
 Last week I drove 12 hours across New Mexico, Northern Texas and Oklahoma, not the most thrilling of drives, and the entire time I was thinking about birds, its not a choice for me.
 
