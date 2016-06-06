@@ -8,24 +8,24 @@ permalink: /research/
 
 # Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails in Intensively Managed Wetland Complexes in Missouri
 
-
 My doctoral research is looking at the effects of wetland management on migratory rails during their fall migration. I’m working on state and federal wetlands across the state of Missouri. We do nocturnal spotlight surveys on ATVs to try to observe the use of these wetlands by our five study species (Sora, Virginia Rail, Yellow Rail, King Rail and Black Rail).
 
 ## Natural History
 
 We’re also trying to better understand the timing of these birds during fall migration, as well as looking at the nuts and bolts of our survey method and trying to quantify the probability of detection with this method for each species of rail.
 
+- *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
+
 ## Wetland Management
 
 Starting in 2014 we established a two (possibly becoming three) year crossover experiment comparing two water level manipulation treatments. Early flooding of moist soil wetlands (flooding beginning August 1) and Late flooding (flooding beginning September 15). We are going to examine if there is any difference in response by both rails and waterfowl to these treatments. Rails are surveyed during the fall (August – October) and waterfowl during the waterfowl hunting season (October – February). Waterfowl response will be examined by looking at both use (via weekly ground counts) and hunter harvest.
 
-## Yellow Rail Morphometric Model
-
-We’ve got a few side projects as well, looking at Yellow Rails. We’re going to be collecting blood for some genetic analysis and also taking body measurements for the development of a morphometric model to predict their sex. If you capture Yellow Rails as part of your work and would be willing to take some body measurements, please let me know (aurielfournier@gmail.com)
-
 ## Methodology (Funded by the Arkansas Audubon Trust)
 
 As it stands right now there is no tested way to survey for rails in the fall so we are using radio telemetry and spatial statistics to assess our survey methods and validate them so that others can use them to examine fall migration of rails.
+
+- *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
+
 
 ## The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrating Rails (Funded by The Garden Club of America 2015)
 
@@ -37,7 +37,9 @@ Summer 2015 I worked with partners in Bird Studies Canada to collect feathers fr
 
 ## Past Projects
 
-- In Review **Fournier, A.M.V.%**, Sullivan, A.R.%, Bump, J.K., Perkins, M., Shieldcastle, M.C, King, S.L.  Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (Rallus limicola) %First two authors contributed equally
+- Accepted **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology**
+
+- Accepted  **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal)
 
 - 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA. Waterbirds 38(3) 312-314 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1675/063.038.0313
 
