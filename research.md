@@ -18,14 +18,13 @@ We’re also trying to better understand the timing of these birds during fall m
 
 ## Wetland Management
 
-Starting in 2014 we established a two (possibly becoming three) year crossover experiment comparing two water level manipulation treatments. Early flooding of moist soil wetlands (flooding beginning August 1) and Late flooding (flooding beginning September 15). We are going to examine if there is any difference in response by both rails and waterfowl to these treatments. Rails are surveyed during the fall (August – October) and waterfowl during the waterfowl hunting season (October – February). Waterfowl response will be examined by looking at both use (via weekly ground counts) and hunter harvest.
+Starting in 2014 we established a three year crossover experiment comparing two water level manipulation treatments. Early flooding of moist soil wetlands (flooding beginning August 1) and Late flooding (flooding beginning September 15). We are going to examine if there is any difference in response by both rails and waterfowl to these treatments. Rails are surveyed during the fall (August – October) and waterfowl during the waterfowl hunting season (October – February). Waterfowl response will be examined by looking at both use (via weekly ground counts) and hunter harvest.
 
 ## Methodology (Funded by the Arkansas Audubon Trust)
 
 As it stands right now there is no tested way to survey for rails in the fall so we are using radio telemetry and spatial statistics to assess our survey methods and validate them so that others can use them to examine fall migration of rails.
 
 - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
-
 
 ## The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrating Rails (Funded by The Garden Club of America 2015)
 
