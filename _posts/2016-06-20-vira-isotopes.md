@@ -1,0 +1,25 @@
+---
+layout: post
+title: New Paper : Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail
+comments: true
+---
+
+![Imgur](http://i.imgur.com/nf6mUyS.jpg)
+
+Fournier, A.M.V, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2016 Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail Journal of Applied Ecology (first two authors are equal) doi:10.1111/1365-2664.12723 [ResearchGate PrePrint](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail)
+
+Stable isotopes have been used for ~20 years to understand a variety of processes, including migration. The ratio of heavy to light hydrogen isotopes in precipitation varies roughly from SE to NW across North America since the heavier isotopes rain out more quickly. When a bird molts its flight feathers on the breeding ground, it grows new ones and those new feathers contain the hydrogen ratio of that place in the inert tissue. Than when we catch at a different place/time of the year we can take the feather and use the hydrogen ratio to back track to where the feather was grown.    
+
+Stable hydrogen alone leaves us with broad swaths of the continent where an individual could be from (Top of Figure 1, bird captured at the green dot), these swaths run roughly west-east across North America. This coarse assignment can be informative, but lacks the resolution we are often interested in. For many bird species we are interested in how far north they breed but also how far east or west they move compared to their wintering location (the green dot in Figure 1). Our paper takes other types of data and uses them to help refine these assignments.  
+
+For some species we have a good understanding of their abundance across their entire range, and when we do we can use that to help refine assignment. This works because a bird isn't equally likely to come from every part of its range. Species abundance varies across space and so does the chance that an individual bird came from that part of the range.   
+
+For difficult to find or rare species we often do not have data about the species abundance over time and space. In these instances we often only have collections of observations of places where the species has been seen. These observations could come from surveys done by scientists or, in our case, citizen science data from eBird (eBird.org). eBird collects observations by birders from around the world and allows us to have a much larger sample size across the species range than would be logistically feasible otherwise. We were able to use eBird observations of Virginia Rails to create a species distribution model based off these observations and habitat information (Middle of Figure 1). This model was used as a prior in Bayesian assignment to help refine the assignments of Virginia Rails to the breeding and wintering grounds (Bottom of Figure 1).   
+
+For species like Virginia Rails, which are poorly studied, hard to detect and too small for technology like satellite transmitters to be feasible this is an informative first step towards understanding how parts of their annual cycle (breeding, migratory stopover and wintering grounds) are connected which is very important for studying their population biology and habitat conservation.   
+
+We used feathers from birds captured at Ottawa National Wildlife Refuge in northwest Ohio to look at the wintering grounds and birds captured across several sites on the Gulf Coast of Texas and Louisiana to look at the breeding grounds. Ohio birds were captured using live traps with audio lures, Gulf Coast birds were captured actively using ATVs and airboats.   
+
+We found some east to west connectivity along the gulf coast wintering areas with sampled birds from farther west being more likely to be from farther west. Some individuals, like the one shown in Figure 1 were most likely from the far western parts of the U.S. which seems biologically unlikely since few birds migrate over the Rocky Mountains, but encourages additional future work on the migration ecology and connectivity of this elusive species.   
+
+There are concerns with using 'presence only' data such as those contained in eBird, and we accounted for this by using data in our species distribution model to account for the variation in survey effort across space, which, as in most citizen science, is not constant. As always these assignments are informative first steps towards understanding connectivity but should not be an ending point in understanding or answering questions about the migration of a species.
