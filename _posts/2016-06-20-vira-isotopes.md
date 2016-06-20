@@ -1,7 +1,6 @@
 ---
 layout: post
 title: New Paper : Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail
-comments: true
 ---
 
 ![Imgur](http://i.imgur.com/nf6mUyS.jpg)
