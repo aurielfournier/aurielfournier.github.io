@@ -24,7 +24,7 @@ Starting in 2014 we established a three year crossover experiment comparing two 
 
 As it stands right now there is no tested way to survey for rails in the fall so we are using radio telemetry and spatial statistics to assess our survey methods and validate them so that others can use them to examine fall migration of rails.
 
-- *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
+- *In Press* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails **The Wildlife Society Bulletin**
 
 ## The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrating Rails (Funded by The Garden Club of America 2015)
 
@@ -32,13 +32,15 @@ Understanding the timing and connectivity of seasonal movements of individuals b
 
 Summer 2015 I worked with partners in Bird Studies Canada to collect feathers from Sora, Virginia and Yellow Rails. Fall 2015 I will collect feathers from rails during migration, to create an accurate map of the connectivity of migratory rails in Missouri. I will use their δD value along with species distribution models to document their migratory connectivity and compare it to the migratory paths of other wetland species
 
+- * In Review* **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds
+
 [Article in the St Joseph Missouri Newspaper](http://www.newspressnow.com/sports/outdoors/article_2cb00441-292a-54b5-809a-8a63e4f26cf5.html)
 
 ## Past Projects
 
-- Accepted **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology**
+- 2016 **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology**
 
-- Accepted  **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal)
+- 2016  **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal)
 
 - 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA. Waterbirds 38(3) 312-314 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1675/063.038.0313
 
