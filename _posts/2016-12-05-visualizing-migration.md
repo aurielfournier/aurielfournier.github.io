@@ -61,3 +61,5 @@ Retrieved: 21 50, Dec 05, 2016 (GMT)
 
 Loss, S. R. S. S., T. Will, P. P. Marra, S. R. S. S. Loss, and P. P. Marra. 2014. Bird–building collisions in the United States: Estimates of annual mortality and species vulnerability. Condor 116:8–23. <http://www.bioone.org/doi/abs/10.1650/CONDOR-13-090.1%5Cnhttp://dx.doi.org/10.1650/CONDOR-13-090.1>.
 
+Sullivan, B. L., C. L. Wood, M. J. Iliff, R. E. Bonney, D. Fink, and S. Kelling. 2009. eBird: A Citizen-based Bird Observation Network in the Biological Sciences. Biological Conservation 142:2282–2292.
+
