@@ -5,7 +5,7 @@ title: Visualizing Migration - Synthesizing Different Datasets
 
 One of the challenges of working with rails is we know so little about them, and what we do know is often scattered in small data points here from the 1960s, and here from the 2000s. There is little data that has been collected in a deliberate way over a long period. The first place I looked was The Birds of North America, which provides detailed species accounts for each species. These graphs showed me some data, with literal question marks on it, that didn't provide a lot of guidance as to when Virginia Rails were migrating (Conway 1995)
 
-![](../figures/25019091.gif)
+![](../figures/25019091.jpg)
 
 As a result of these fairly uninformative graphs I often end up digging into some literature to find data. Over the past two years I've tracked down almost all the issues of The Bluebird, journal of the Audubon Society of Missouri, and compiled all the spring and autumn migration data contained therein [Data available here on figshare](https://figshare.com/articles/The_Bluebird_Rail_Data/2760913). These data are opportunistic at best (someone saw a rail, and decided to report it) but when looking at pre-eBird times (eBird being a very large online database of citizen science bird observations, which really took over after 2000) these kind of state by state resources can be vital. 
 
