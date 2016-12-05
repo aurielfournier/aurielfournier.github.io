@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Visualizing Migration: Synthesizing Different Datasets
+title: Visualizing Migration - Synthesizing Different Datasets
 ---
 
 One of the challenges of working with rails is we know so little about them, and what we do know is often scattered in small data points here from the 1960s, and here from the 2000s. There is little data that has been collected in a deliberate way over a long period. The first place I looked was The Birds of North America, which provides detailed species accounts for each species. These graphs showed me some data, with literal question marks on it, that didn't provide a lot of guidance as to when Virginia Rails were migrating (Conway 1995)
 
-![](figures/25019091.gif)
+![](../figures/25019091.gif)
 
 As a result of these fairly uninformative graphs I often end up digging into some literature to find data. Over the past two years I've tracked down almost all the issues of The Bluebird, journal of the Audubon Society of Missouri, and compiled all the spring and autumn migration data contained therein [Data available here on figshare](https://figshare.com/articles/The_Bluebird_Rail_Data/2760913). These data are opportunistic at best (someone saw a rail, and decided to report it) but when looking at pre-eBird times (eBird being a very large online database of citizen science bird observations, which really took over after 2000) these kind of state by state resources can be vital. 
 
@@ -22,7 +22,7 @@ I thought about doing this a few different ways, first trying histograms, and li
 
 Then I tried box plots, with the idea this would help take out the highly variable y axis due to different sample sizes, and allow us to compare the duration and median date of migration. 
 
-![](images/figure2.jpeg)
+![](../images/figure2.jpeg)
 
 This was ok. I only had one data point for building strikes of Yellow Rails, so I excluded it, and this figure is fine. But I wasn't really happy with it, I was still wrestling back and forth with if I should be describing each data type on its own, or if they should all be lumped together, and I found this graph deceptive, it did a good job of making it clearer because the sample size was hidden, but that hidden element bugged me.
 
@@ -38,7 +38,7 @@ So I tried some other methods, again and again.
 
 Finally I settled on this one. 
 
-![](images/2016-11-20figure_2.jpeg)
+![](../images/2016-11-20figure_2.jpeg)
 
 This graph does a few things I really like. It separates out the Birds of North America data, which isn't really data so much as my visualization of the information on the graph in the Birds of North American Accounts. It also lumps the data in a way I am comfortable with. All the data I gathered from other sources, Audubon Society of Missouri, eBird and the building strike data, are lumped into 'Opportunistic Observations' which I think is the most conservative way of looking at them. My data, which were collected through nightly regular surveys are separated for two main reasons 1) they are my data and I wanted to compare my data to other data, 2) they were collected under one standardized protocol, unlike the other data types. 
 
