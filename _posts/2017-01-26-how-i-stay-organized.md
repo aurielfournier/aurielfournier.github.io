@@ -26,7 +26,8 @@ I've also found these three books very helpful in how I think about time managem
 
 [A PhD Is Not Enough by Peter J. Feibelman ](https://www.amazon.com/PhD-Not-Enough-Survival-Science/dp/0465022227)
 
-[So Good They Can't Ignore You by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124
+[So Good They Can't Ignore You by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124)
+
 [Checklist Manifesto by Atul Gawande](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
 
 [Cal Newport's Blog Study Hacks](http://calnewport.com/blog/) is also outstanding. 
