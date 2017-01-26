@@ -32,5 +32,7 @@ I've also found these three books very helpful in how I think about time managem
 
 [Cal Newport's Blog Study Hacks](http://calnewport.com/blog/) is also outstanding. 
   
-  
+In summary, what I use, may not work for you, but I know very few people who are successful that don't have some kind of system for managing their tasks and their time. It may take awhile to find what works for you, and I hope this has been helpful.
+
+Questions - I'm on twitter @RallidaeRule or email aurielfournier[@]gmail.com  
   
