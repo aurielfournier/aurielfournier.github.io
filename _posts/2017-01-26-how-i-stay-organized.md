@@ -1,5 +1,5 @@
 ---
-  layout: post
+layout: post
 title:  How I stay organized
 comments: true
 ---
@@ -25,6 +25,7 @@ I also view graduate school as a means to an end. I want a career fighting for b
 I've also found these three books very helpful in how I think about time management/organization and graduate school
 
 [A PhD Is Not Enough by Peter J. Feibelman ](https://www.amazon.com/PhD-Not-Enough-Survival-Science/dp/0465022227)
+
 [So Good They Can't Ignore You by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124
 [Checklist Manifesto by Atul Gawande](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
 
