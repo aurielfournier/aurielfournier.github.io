@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Announcement: Post Doc at Mississippi State
+title:  Announcement - Post Doc at Mississippi State
 comments: true
 ---
   
