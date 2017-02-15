@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Visualizing Migration - Synthesizing Different Datasets
+comments: true
 ---
 
 One of the challenges of working with rails is we know so little about them, and what we do know is often scattered in small data points here from the 1960s, and here from the 2000s. There is little data that has been collected in a deliberate way over a long period. The first place I looked was The Birds of North America, which provides detailed species accounts for each species. These graphs showed me some data, with literal question marks on it, that didn't provide a lot of guidance as to when Virginia Rails were migrating (Conway 1995)
