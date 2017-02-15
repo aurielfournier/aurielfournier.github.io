@@ -14,7 +14,7 @@ My doctoral research is looking at the effects of wetland management on migrator
 
 We’re also trying to better understand the timing of these birds during fall migration, as well as looking at the nuts and bolts of our survey method and trying to quantify the probability of detection with this method for each species of rail.
 
-- *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
+- Accepted **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration **Wilson Journal of Ornitholog**
 
 ## Wetland Management
 
@@ -32,7 +32,7 @@ Understanding the timing and connectivity of seasonal movements of individuals b
 
 Summer 2015 I worked with partners in Bird Studies Canada to collect feathers from Sora, Virginia and Yellow Rails. Fall 2015 I will collect feathers from rails during migration, to create an accurate map of the connectivity of migratory rails in Missouri. I will use their δD value along with species distribution models to document their migratory connectivity and compare it to the migratory paths of other wetland species
 
-- * In Review* **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds
+- Accepted **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds **Journal of Avian Biology**
 
 [Article in the St Joseph Missouri Newspaper](http://www.newspressnow.com/sports/outdoors/article_2cb00441-292a-54b5-809a-8a63e4f26cf5.html)
 
