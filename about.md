@@ -36,7 +36,6 @@ Feel free to contact me with any questions at aurielfournier@gmail.com, or on tw
 [Github](https://github.com/aurielfournier) |
 [ImpactStory](https://impactstory.org/u/0000-0002-8530-9968) | 
 [ORCID](http://orcid.org/0000-0002-8530-9968) |
-[Academia.edu](https://uark.academia.edu/AurielMVFournier) |
 [Research Gate](http://www.researchgate.net/profile/Auriel_Fournier) |
 [Publons](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile) 
 
