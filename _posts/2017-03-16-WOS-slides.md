@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #WOS17 Presentation 
+title: WOS17 Presentation 
 comments: true
 ---
 
