@@ -14,7 +14,7 @@ My doctoral research is looking at the effects of wetland management on migrator
 
 We’re also trying to better understand the timing of these birds during fall migration, as well as looking at the nuts and bolts of our survey method and trying to quantify the probability of detection with this method for each species of rail.
 
-- Accepted **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration **Wilson Journal of Ornitholog**
+- Accepted **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration **Wilson Journal of Ornithology**
 
 ## Wetland Management
 
@@ -24,7 +24,7 @@ Starting in 2014 we established a three year crossover experiment comparing two 
 
 As it stands right now there is no tested way to survey for rails in the fall so we are using radio telemetry and spatial statistics to assess our survey methods and validate them so that others can use them to examine fall migration of rails.
 
-- *In Press* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails **The Wildlife Society Bulletin**
+- **Fournier, A.M.V.**, Krementz, D.G. 2017 Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails **The Wildlife Society Bulletin** doi:10.1002/wsb.745
 
 ## The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrating Rails (Funded by The Garden Club of America 2015)
 
@@ -38,9 +38,9 @@ Summer 2015 I worked with partners in Bird Studies Canada to collect feathers fr
 
 ## Past Projects
 
-- 2016 **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology** [pdf](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf)
+- 2017  **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal) [pdf](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf)
 
-- 2016  **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal) [pdf](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf)
+- 2016 **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology** [pdf](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf)
 
 - 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA. Waterbirds 38(3) 312-314 [pdf](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) doi:10.1675/063.038.0313
 
