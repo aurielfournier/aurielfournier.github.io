@@ -20,6 +20,6 @@ I worked four summers at Pioneer Scout Reservation as a member of their ecology 
 
 I greatly enjoy working with people of all ages, during my undergrad I led a committee to plan twice yearly badge days for local boy scouts, bringing in youth from all over the Upper Peninsula of Michigan for an outdoors based day of fun and learning.
 
-As a grad student I try to reach out as much as possible to the local community to teach them about my research and I try to write as much as possible about it in a variety of forms (newsletters, blogs, maybe someday magazines) so not just scientists have access to what I do.
+As a grad student and now as a postdoc I try to reach out as much as possible to the local community to teach them about my research and I try to write as much as possible about it in a variety of forms (newsletters, blogs, maybe someday magazines) so not just scientists have access to what I do.
 
-Looking for an enthusiastic grad student to speak to your class, group or organization about ecology, birds, science or science careers? Just let me know (aurielfournier@gmail.com). If you’re near me I’ll come to you, or we can try to set up something over Skype!
+Looking for an enthusiastic scientist to speak to your class, group or organization about ecology, birds, science or science careers? Just let me know (aurielfournier@gmail.com). If you’re near me I’ll come to you, or we can try to set up something over Skype!
