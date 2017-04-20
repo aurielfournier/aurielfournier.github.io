@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](http://i.imgur.com/Ae4lZ6y.jpg?1)
+![](https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/squareshot.PNG)
 
 I recently completed my PhD in Biology at the [University of Arkansas](www.uark.edu) through the [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/). For the next two years I'll be a Postdoctoral Research Assistant at Mississippi State University working on Structured Decision Making tools to support the [Gulf of Mexico Avian Monitoring Network](https://globalchange.ncsu.edu/secsc/projects/measuring-effects-of-restoration-and-ecological-change-on-bird-populations-in-the-gom/), where I'll be supervised by Drs. Jim Lyons and Mark Woodrey. 
 
