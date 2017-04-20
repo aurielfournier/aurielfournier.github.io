@@ -12,7 +12,7 @@ Part of my research is connecting what I do back to the public. I believe that t
 
 In addition, we need a diverse workforce studying and managing that environment (and I mean more then just gender diversity). I work towards raising the field of ecology's awareness of the detrimental impact of things like unpaid internships (Fournier and Bond 2015) and unfair hiring practices which discriminate against many who want to enter science.
 
-## Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails in Intensively Managed Wetland Complexes in Missouri (Fundined by US Fish and Wildlife Service and Missouri Department of Conservation)
+## Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails in Intensively Managed Wetland Complexes in Missouri (Funded by US Fish and Wildlife Service and Missouri Department of Conservation)
 
 My doctoral research is looking at the effects of wetland management on migratory rails during their fall migration. I’m working on state and federal wetlands across the state of Missouri. We do nocturnal spotlight surveys on ATVs to try to observe the use of these wetlands by our five study species (Sora, Virginia Rail, Yellow Rail, King Rail and Black Rail).
 
