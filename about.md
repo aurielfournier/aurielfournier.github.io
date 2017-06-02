@@ -6,9 +6,11 @@ permalink: /about/
 
 ![](https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/squareshot.PNG)
 
-I recently completed my PhD in Biology at the [University of Arkansas](www.uark.edu) through the [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/). For the next two years I'll be a Postdoctoral Research Assistant at Mississippi State University working on Structured Decision Making tools to support the [Gulf of Mexico Avian Monitoring Network](https://globalchange.ncsu.edu/secsc/projects/measuring-effects-of-restoration-and-ecological-change-on-bird-populations-in-the-gom/), where I'll be supervised by Drs. Jim Lyons and Mark Woodrey. 
+I'm currently a Postdoctoral Research Assistant at Mississippi State University working on Structured Decision Making tools to support the [Gulf of Mexico Avian Monitoring Network](https://globalchange.ncsu.edu/secsc/projects/measuring-effects-of-restoration-and-ecological-change-on-bird-populations-in-the-gom/), where I am supervised by Drs. Jim Lyons and Mark Woodrey. 
 
-  My goal is to do work that promotes bird conservation and to help connect the people around me with the natural world. I love spending time in the field, and I love writing code, so I’m trying to weave together a career to help birds and keeps me doing my two favorite things. I also really enjoy teaching people about programming and statistics. I am an instructor for [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) and I love sitting down with most anyone to teach them about R, reproducible research and statistics. 
+I completed my PhD in Biology at the [University of Arkansas](www.uark.edu) through the [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/) in March 2017.
+
+My goal is to do work that promotes bird conservation and to help connect the people around me with the natural world. I love spending time in the field, and I love writing code, so I’m trying to weave together a career to help birds and keeps me out in the field and coding. I also really enjoy teaching people about programming and statistics. I am an instructor for [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) and I love sitting down with most anyone to teach them about R, reproducible research and statistics.   
 
 Feel free to contact me with any questions at aurielfournier@gmail.com, or on twitter @RallidaeRule  
 
