@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PrePrint Up  Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds
+title: PrePrint Up ~ Using citizen science data in SDMs to inform migratory connectivity
 comments: true
 ---
 
