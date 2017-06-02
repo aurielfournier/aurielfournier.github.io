@@ -12,11 +12,14 @@ Part of my research is connecting what I do back to the public. I believe that t
 
 In addition, we need a diverse workforce studying and managing that environment (and I mean more then just gender diversity). I work towards raising the field of ecology's awareness of the detrimental impact of things like unpaid internships (Fournier and Bond 2015) and unfair hiring practices which discriminate against many who want to enter science.
 
-## Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails in Intensively Managed Wetland Complexes in Missouri (Funded by US Fish and Wildlife Service and Missouri Department of Conservation)
+## Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails in Intensively Managed Wetland Complexes in Missouri   
+> (Funded by US Fish and Wildlife Service and Missouri Department of Conservation)
 
 My doctoral research is looking at the effects of wetland management on migratory rails during their fall migration. I’m working on state and federal wetlands across the state of Missouri. We do nocturnal spotlight surveys on ATVs to try to observe the use of these wetlands by our five study species (Sora, Virginia Rail, Yellow Rail, King Rail and Black Rail).
 
-### Methodology (Funded by the Arkansas Audubon Trust)
+### Methodology   
+
+> (Funded by the Arkansas Audubon Trust)
 
 As it stands right now there is no tested way to survey for rails in the fall so we are using radio telemetry and spatial statistics to assess our survey methods and validate them so that others can use them to examine fall migration of rails.
 
@@ -26,15 +29,20 @@ As it stands right now there is no tested way to survey for rails in the fall so
 
 We’re trying to better understand the timing of these birds during fall migration, as well as looking at the nuts and bolts of our survey method and trying to quantify the probability of detection with this method for each species of rail.
 
-- Accepted **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration **Wilson Journal of Ornithology**
+- In Press **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration **Wilson Journal of Ornithology**
 
-### The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrating Rails (Funded by The Garden Club of America 2015)
+- In Press **Fournier, A.M.V.**, Krementz, D.G. *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology**
+
+
+### The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrating Rails  
+
+> (Funded by The Garden Club of America 2015)
 
 Understanding the timing and connectivity of seasonal movements of individuals between habitats is essential for the effective conservation and management of migratory species. Documenting migratory connectivity is especially difficult for secretive species like rails. Rails are among the least studied birds in North America. I propose using stable isotopes, and species distribution models based on eBird data to predict the migratory connectivity of rails. Sora and Virginia are game species in North America who we hunt despite our lack of information about their population levels, trends and connectivity. Both species, along with the non-game Yellow Rail are thought to be declining, but the cause is unknown. The National Marshbird Monitoring Program will soon bring us actual population estimates and monitoring, but addressing any negative population trends to inform conservation and management without understanding rail connectivity will make science based management difficult. This project would be an informative first step at understanding the migratory connectivity of these species in the central United States. 
 
 Summer 2015 I worked with partners in Bird Studies Canada to collect feathers from Sora, Virginia and Yellow Rails. Fall 2015 I will collect feathers from rails during migration, to create an accurate map of the connectivity of migratory rails in Missouri. I will use their δD value along with species distribution models to document their migratory connectivity and compare it to the migratory paths of other wetland species
 
-- Accepted **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds **Journal of Avian Biology**
+- In Press **Fournier, A.M.V.**, Drake K.L., Tozer D.C. *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [Preprint](http://biorxiv.org/content/early/2017/06/01/144527)
 
 ### Wetland Management
 
