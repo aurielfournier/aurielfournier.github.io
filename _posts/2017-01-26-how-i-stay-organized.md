@@ -18,10 +18,6 @@ I also have a spreadsheet where I keep track of all my projects, what the status
 
 I deal with email in two ways. If it will take me <5 minutes to reply, I do it right away. Otherwise the email gets added to my todolist, and gets answered at the end of the day, or gets scheduled for sometime in the future when I will have the information I need that way I don't end up reading the same emails over and over and over again.
 
-I try to set hours for myself to work. so I get into the office the same time every day, and I work until around the same time each day. Sometimes I have to work later of course, but having set hours helps me keep making progress. For me its 730-530, but that doesn't mean it has to be for anyone else. I try to schedule meetings and things for the afternoons because mornings are when I am best able to focus on deeper tasks like code or writing. I am also very fortunate that I have not had to teach every semester of graduate school, which has given me much more time to focus on other things. The semesters that I teach, though I love teaching, I get less done. 
-
-I also view graduate school as a means to an end. I want a career fighting for birds and the habitats they live in, by doing research to inform conservation. To do that, I need a PhD. So I am here to do the things I need to do to accomplish that, and to be prepared to get a job. I've been talking to folks since before I entered graduate school, about what I needed to do to be successful in and after graduate school. I don't follow all of their advice of course, but by seeking a wide set of views I have been able to set a course for myself, and adjust it many times. 
-
 I've also found these three books very helpful in how I think about time management/organization and graduate school
 
 [A PhD Is Not Enough by Peter J. Feibelman ](https://www.amazon.com/PhD-Not-Enough-Survival-Science/dp/0465022227)
