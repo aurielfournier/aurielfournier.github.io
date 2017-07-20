@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /about/
+permalink: /publications/
 ---
 
 10 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Accepted *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** 
