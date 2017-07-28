@@ -14,7 +14,9 @@ I take every opportunity to work with the public and teach them about whatever p
 
 During my PhD I coordinated monthly bird banding programs at Hobbs State Park, "Birds and Breakfast" to groups of 40-180 people.  
 
-[![Birds and Breakfast](http://imgur.com/a/yNHq2)](https://www.youtube.com/watch?v=EJfGp58vngw "Birds and Breakfast")
+Click on the below image for a video by Arkansas State Parks about Birds and Breakfast! 
+
+[![Birds and Breakfast](http://i.imgur.com/XYDOuCB.png)](https://www.youtube.com/watch?v=EJfGp58vngw "Birds and Breakfast")
 
 I’ve been a Teaching Assistant for field based courses, and worked one on one with students a various levels (undergrad – graduate) on improving their scientific writing. I believe in engaging students where they are and helping them understand WHY what they are learning is important to their lives.
 
