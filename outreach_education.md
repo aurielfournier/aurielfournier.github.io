@@ -10,7 +10,11 @@ Education is a vital part of the research cycle and I am always looking for oppo
 
 I’ve given dozens of public bird banding demonstrations with Hobbs State Park, Black Swamp Bird Observatory, Green Creek Wildlife Society and Pioneer Scout Reservation.
 
-I take every opportunity to work with the public and teach them about whatever project I am involved with. Currently I’m helping out UArk’s student chapter of The Wildlife Society with their monthly bird banding demonstrations at the local state park, judging in local science fairs and talking to high school classes and non-profit groups about my research.
+I take every opportunity to work with the public and teach them about whatever project I am involved with.
+
+During my PhD I coordinated monthly bird banding programs at Hobbs State Park, "Birds and Breakfast" to groups of 40-180 people.  
+
+[![Birds and Breakfast](http://imgur.com/a/yNHq2)](https://www.youtube.com/watch?v=EJfGp58vngw "Birds and Breakfast")
 
 I’ve been a Teaching Assistant for field based courses, and worked one on one with students a various levels (undergrad – graduate) on improving their scientific writing. I believe in engaging students where they are and helping them understand WHY what they are learning is important to their lives.
 
