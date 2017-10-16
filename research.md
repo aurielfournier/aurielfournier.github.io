@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I am a scientist who reaches across the boundary of quantitative and field ecology to answer robust and innovative scientific questions and provide valuable data to support on the ground conservation. Currently I am working as apart of the Gulf of Mexico Avian Monitoring Network [gomamn.org](gomamn.org) using structured decision makin to support decision making behind bird conservation priorities.  
+I am a scientist who reaches across the boundary of quantitative and field ecology to answer robust and innovative scientific questions and provide valuable data to support on the ground conservation. Currently I am working as apart of the Gulf of Mexico Avian Monitoring Network [gomamn.org](https://gomamn.org/) using structured decision makin to support decision making behind bird conservation priorities.  
 
 My doctoral work focused on the migration ecology of secretive marsh birds and how wetland management impacts them. I have a particular interest in using innovative quantitative techniques to overcome issues of detection to answer continental scale questions about migration, especially for wetland species. I sought to understand how species migrate, select habitat, and how available habitat throughout their annual cycle may limit their population growth and individual survival. 
 
