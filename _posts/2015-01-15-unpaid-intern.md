@@ -4,6 +4,10 @@ title: At least they don't seal the fire exits Or why unpaid internships are BS
 comments: true
 ---
 
+> FYI This post lead to the publication of a paper in 2015 with Alex Bond. 
+**Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 doi:10.1002/wsb.603 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%2C%20Bond%20-%202015%20-%20Wildlife%20Society%20Bulletin.pdf) 
+
+
 <span style="color: #808080;">*beware, this is something I feel VERY passionately about*</span>
 
 <a href="http://aurielmvfournier.com/wp-content/uploads/2015/01/10433269_10152556672355423_7683988064419988228_n.jpg"><img class="alignnone size-full wp-image-913" src="http://aurielmvfournier.com/wp-content/uploads/2015/01/10433269_10152556672355423_7683988064419988228_n.jpg" alt="10433269_10152556672355423_7683988064419988228_n" width="960" height="98" /></a>
