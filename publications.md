@@ -37,8 +37,8 @@ In Press
 
 ### My project has been highlighted in several blog posts and podcasts
 
-[The elusive migration of rails - BOU Blog](https://www.bou.org.uk/blog-fournier-rail-migration/)
-[Secreative Marsh Birds - Missouri Conservationist](https://mdc.mo.gov/sites/default/files/downloads/magazine/20171101_0.pdf)  
+[The elusive migration of rails - BOU Blog](https://www.bou.org.uk/blog-fournier-rail-migration/)  
+[Secretive Marsh Birds - Missouri Conservationist](https://mdc.mo.gov/sites/default/files/downloads/magazine/20171101_0.pdf)  
 [BreakingBio Podcast](http://breakingbio.com/2015/11/10/bb94-rallying-for-rails-with-auriel-fournier/)  
 [Show me the rails - University of Arkansas Field Notes Blog](http://researchfrontiers.uark.edu/2015/show-me-the-rails/)  
 [Working the Night Shift - University of Arkansas Field Notes Blog](http://researchfrontiers.uark.edu/2015/headline-here/)  
