@@ -32,3 +32,4 @@ In summary, what I use, may not work for you, but I know very few people who are
 
 Questions - I'm on twitter @RallidaeRule or email aurielfournier[@]gmail.com  
   
+> Update 2017-11-13 - Now as a postdoc I have found time blocking to be really helpful in keeping myself on task and productive. I still use the above tools, but also block out my calendar either a few days or a week at a time to help myself stay on task and manage many competing items on my todo list. 
