@@ -7,7 +7,7 @@ comments: true
 
 New paper out in the Wilson Journal of Ornithology !!
 
-Fournier, A.M.V., Mengel, D.C., Gbur, E.E., Krementz, D.G. The timing of autumn Sora (Porzana carolina) migration in Missouri Wilson Journal of Ornithology 129:675-770 [PDF](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2017_Wilson.pdf)
+Fournier, A.M.V., Mengel, D.C., Gbur, E.E., Krementz, D.G. [The timing of autumn Sora (Porzana carolina) migration in Missouri](http://www.bioone.org/doi/full/10.1676/16-108.1) Wilson Journal of Ornithology 129:675-770 DOI:10.1676/16-108.1 [PDF](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2017_Wilson.pdf)
 
 Sora are the most commonly encountered rail during my PhD work, we observed over 8 thousand of them. When I originally started my project back in 2012 we didn't have a good feel for when Sora were migrating through Missouri, we started surveying weeks before Sora were thought to arrive in the exisiting literature and that first field season ended October 7th because we thought migration would be over then. But day 1 we found birds, and then October 7, 2012 rolled around and we quickly realized that Sora migration was not over and we needed to readjust for the next field season, which then became the next four field seasons. 
 
