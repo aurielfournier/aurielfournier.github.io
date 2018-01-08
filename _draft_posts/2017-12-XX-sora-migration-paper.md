@@ -15,7 +15,6 @@ While we did observe some variation in the distribution of Sora across the migra
 
 We detected Sora migrating in Missouri much earlier in August then previous work, in part because no one was looking for them that early, and in part because we used a method we developed which maximized our detection probability [Fournier and Krementz 2017](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf). Sora are migrating through Missouri much earlier then most waterfowl, which suggests that their habitat needs require us to think about the timing of wetland management differently. 
 
-The findings in this paper, were the foundadtion on which every other question in my dissertation is based. Since Sora are migrating earlier and later then previously thought it raises questions about their habitat selection (Fournier et al In Review), and also the tradeoffs between managing for Sora vs managing for waterfowl (Manuscript finished, recently rejected, hopefully resubmitted soon). 
 
 
 
