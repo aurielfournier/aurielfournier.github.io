@@ -4,8 +4,6 @@ title: Upcoming Talks
 permalink: /upcoming_talks/
 ---
 
-# Upcoming Talks
-
 - Tulane University, New Orleans, LA - February 2, 2018  
 "Conservation Puzzles: From Detection Probability to Decision Science"
 
