@@ -4,15 +4,6 @@ title: Upcoming Talks
 permalink: /upcoming_talks/
 ---
 
-- Tulane University, New Orleans, LA - February 2, 2018  
-"Conservation Puzzles: From Detection Probability to Decision Science"
-
-- Gettysburg University, Gettysburg, PA - February 12, 2018  
-"Conservation Puzzles: From Detection Probability to Decision Science"
-
-- University of Delaware, Newark, DE - February 14, 2018  
-"Conservation Puzzles: From Detection Probability to Decision Science"
-
 - University of Southern Mississippi, Hattiesburg, MS - February 23, 2018  
 "Conservation Puzzles: From Detection Probability to Decision Science"
 
