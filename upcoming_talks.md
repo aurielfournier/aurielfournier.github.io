@@ -4,7 +4,7 @@ title: Upcoming Talks
 permalink: /upcoming_talks/
 ---
 
-- University of Southern Mississippi, Hattiesburg, MS - February 23, 2018  
+- Mississippi State University, Starkville, MS - March 8, 2018  
 "Conservation Puzzles: From Detection Probability to Decision Science"
 
 - Louisiana State University, Baton Rouge, LA - March 14, 2018  
