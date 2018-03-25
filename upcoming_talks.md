@@ -4,12 +4,6 @@ title: Upcoming Talks
 permalink: /upcoming_talks/
 ---
 
-- Mississippi State University, Starkville, MS - March 8, 2018  
-"Conservation Puzzles: From Detection Probability to Decision Science"
-
-- Louisiana State University, Baton Rouge, LA - March 14, 2018  
-"Conservation Puzzles: From Detection Probability to Decision Science"
-
 - American Ornithological Society Annual Meeting, Tucson, AZ - April 11-14, 2018  
 "Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making" &    
 "Informing isotopic assignment of secretive marsh bird migratory connectivity with directed and opportunistic citizen science data"
@@ -19,3 +13,8 @@ permalink: /upcoming_talks/
 
 - Oklahoma Ornithological Society Spring Meeting, Dwight Mission, Oklahoma - April 28, 2018  
 "Elusive Migration: the autumn migration ecology of rails" 
+
+- Wilson Ornithological Meeting/Association of Field Ornithologists Meeting - June 5-10, 2018
+
+- SESYNC - June 11-14 Boundary Spanning: Advances in Socio-Environmental Systems Research Symposium 
+
