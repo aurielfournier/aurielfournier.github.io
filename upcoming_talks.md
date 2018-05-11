@@ -4,8 +4,6 @@ title: Upcoming Talks
 permalink: /upcoming_talks/
 ---
 
-- Oklahoma Ornithological Society Spring Meeting, Dwight Mission, Oklahoma - April 28, 2018  
-"Elusive Migration: the autumn migration ecology of rails" 
 
 - Wilson Ornithological Meeting/Association of Field Ornithologists Meeting - June 5-10, 2018
 
@@ -15,3 +13,4 @@ permalink: /upcoming_talks/
 
 - National Conference on Ecological Restoration Meeting - August 2018 
 
+Interested in having me speak for your group? I give engaging talks that aim to get people excited about birds, especially wetland birds, and their habitats. I often speak to non-technical audiences, from K-12 classrooms, to mixed age groups, to senior citizen organizations. Drop me a line if you'd like to bring me in to speak to your group!
