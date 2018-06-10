@@ -5,8 +5,6 @@ permalink: /upcoming_talks/
 ---
 
 
-- Wilson Ornithological Meeting/Association of Field Ornithologists Meeting - June 5-10, 2018
-
 - SESYNC - June 11-14 Boundary Spanning: Advances in Socio-Environmental Systems Research Symposium 
 
 - Ecological Society of America Annual Meeting - August 2018
