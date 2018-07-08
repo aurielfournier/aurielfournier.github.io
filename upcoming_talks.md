@@ -4,9 +4,6 @@ title: Upcoming Talks
 permalink: /upcoming_talks/
 ---
 
-
-- SESYNC - June 11-14 Boundary Spanning: Advances in Socio-Environmental Systems Research Symposium 
-
 - Ecological Society of America Annual Meeting - August 2018
 
 - National Conference on Ecological Restoration Meeting - August 2018 
