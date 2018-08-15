@@ -18,7 +18,7 @@ I am a lesson maintainer because @cbahlai encouraged me to become a Carpentries 
 
 I never would have been able to do that great work with Bird Studies Canada if the introductions hadn't been made by people I met through twitter!
 
-![](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/images/Untitled.png)
+![](https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/Untitled.png)
 
 My paper in Bulletin of Environmental Contamination and Toxicology is entirely because I said 'hey do you have rail data in a drawer, I'll help you analyze it' on twitter. 
 
@@ -30,17 +30,17 @@ I wouldn't have gotten that grant to have two undergrads work with me this summe
 
 I never would have known about the Frances M Peacock grant program without twitter, and many from twitter helped me with my application
 
-![](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/images/Untitled2.png)
+![](https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/Untitled2.png)
 
 I have received most of my seminar and other speaking invitations from folks I know from twitter. Thank you all!
 
 Many of the presentations I have given, of have been an author on have been on projects that started on twitter. 
 
-![](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/images/Untitled3.png)
+![](https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/Untitled3.png)
 
 More presentations that would not have been possible without meeting folks through twitter. 
 
-![](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/images/Untitled4.png)
+![](https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/Untitled4.png)
 
 I got involved with the local organnizing committee for the last AFO/WOS meeting because WOS members I met through twitter told me they wanted certain events at the next meeting, so I made it happen. 
 
@@ -50,11 +50,11 @@ I would never have known ROpenSci Unconf existed, much less had the guts to appl
 
 I also learned that SESYNC and NIMBIOS existed through twitter, and was encouraged to take great courses both places by folks from twitter. 
 
-![](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/images/Untitled5.png)
+![](https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/Untitled5.png)
 
 A lot of my teaching experience ceases to exist without twitter, since @cbahlai encouraged me to become a Carpentries instructor, and with that confidence I started teaching workshops with my colleague Matt Boone at AOU/AOS meetings. 
 
-![](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/images/Untitled6.png)
+![](https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/Untitled6.png)
 
 I wouldn't have known about Skype with A Scientist without Twitter.
 
@@ -62,9 +62,7 @@ and naturally I wouldn't have curated twitter accounts, without twitter.
 
 I also would have missed out on some freelance work with Bird Studies Canada, as well as all my current work with Porzana Solutions. 
 
-![](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/images/Untitled7.png)
-
-
+![](https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/Untitled7.png)
 
 Twitter has changed my life, the people I have met here have become my close friends and valued colleagues. 
 
