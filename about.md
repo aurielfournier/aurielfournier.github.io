@@ -4,17 +4,23 @@ title: About
 permalink: /about/
 ---
 
-
-
-
 I'm currently a Postdoctoral Research Assistant at Mississippi State University working on Structured Decision Making tools to support the [Gulf of Mexico Avian Monitoring Network](https://gomamn.org/), where I am supervised by Drs. Jim Lyons and Mark Woodrey. 
 
 <img align="right" src="https://avatars1.githubusercontent.com/u/7707957?s=400&u=728d2eaf013d4d79ddd6104c46afda2ab19bcdca&v=4">
 
-
 I completed my PhD in Biology at the [University of Arkansas](www.uark.edu) through the [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/) in March 2017.
 
-My goal is to do work that promotes bird conservation and to help connect the people around me with the natural world. I love spending time in the field, and I love writing code, so I’m trying to weave together a career to help birds and keeps me out in the field and coding. I also really enjoy teaching people about programming and statistics. I am an instructor for [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) and I love sitting down with most anyone to teach them about R, reproducible research and statistics.   
+I'm an **applied conservation ecologist**, which basically means that I do scientific work to solve a problem or answer a question that comes from the natural resource manaement community. Usually, that involves at least two of three things: birds, wetlands or decision making.
+
+As an **ornithologist**, I model the migratory connectivity of birds and work to better understand when they migrate and where.
+
+As an **quanitative ecologist**, I use complex statistical models to account for the natural variation in the system to better understand if the management action or process at hand is influencing things. 
+
+As a **field ecologist**, I spend a lot of time getting ATVs unstuck, and fixing them, while also designing new survey methodologies for some of the world's most elusive birds. 
+
+As a **collaborator**, I believe in transparent reproducible science but even more I believe in collaborative science. I believe in science that engages the people who will be using the results to inform their decisions, be they funding decision makers or wetland managers. I want to do good science, but even more I want that science to be useful. I have extensive experience leading  teams across organizational, discipline and political boundaries.
+
+As a passionate advocate for a **more diverse scientific community** I am always interested in studying the impacts of our assumptions in the scientific career path. Currently this focuses on the impacts of unpaid labor. 
 
 Feel free to contact me with any questions at aurielfournier@gmail.com, or on twitter @RallidaeRule  
 
