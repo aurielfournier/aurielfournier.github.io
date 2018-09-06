@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-11 papers [all first author], 4 peer reviewed reports [1 first author]. 8 in review. 
+11 papers [all first author], 5 peer reviewed reports [2 first author]. 8 in review. 
 
 2018
 
@@ -24,6 +24,9 @@ permalink: /publications/
 **Fournier, AMV**, Krementz, DG. [*Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf) **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 
 
 **Fournier, AMV**, Sullivan, A, Bump, J, Perkins, M, Shieldcastle, MC, King, S. [*Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf) **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723   
+
+**Fournier, A.M.V.**, Mengel, D.C. The timing of autumn rail migration in Missouri *Missouri Department of Conservation Science Note*
+
 
 2016 
 
