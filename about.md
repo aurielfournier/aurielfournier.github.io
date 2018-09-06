@@ -7,9 +7,10 @@ permalink: /about/
 
 
 
-![](https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/squareshot.PNG)
-
 I'm currently a Postdoctoral Research Assistant at Mississippi State University working on Structured Decision Making tools to support the [Gulf of Mexico Avian Monitoring Network](https://gomamn.org/), where I am supervised by Drs. Jim Lyons and Mark Woodrey. 
+
+<img align="right" src="https://avatars1.githubusercontent.com/u/7707957?s=400&u=728d2eaf013d4d79ddd6104c46afda2ab19bcdca&v=4">
+
 
 I completed my PhD in Biology at the [University of Arkansas](www.uark.edu) through the [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/) in March 2017.
 
