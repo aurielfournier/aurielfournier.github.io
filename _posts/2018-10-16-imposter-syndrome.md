@@ -12,5 +12,10 @@ I asked folks on twitter to share their resources about battling imposter syndro
 
 "If you keep a calendar (& you should keep a calendar), look back 3 to 6 months and see how much you’ve learned, done, contributed, etc since then. Day-to-day progress adds up, but it sometimes happens so slowly you forget to take stock of your awesomeness."
 
+"When you feel overwhelmed because you’ve signed on to Too Many Things, try to reframe it not as failure, but as confidence from your mentors and collaborators that you can Do The Things. Then, prioritize and communicate with folks about your limits. It’s ok to Not Do Things."
+
+When you say no to others, you say yes to yourself
 
 https://captainawkward.com/2016/04/19/855-overcoming-imposter-syndrome-and-accessing-mental-health-support/
+
+https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/
