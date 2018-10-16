@@ -19,3 +19,7 @@ When you say no to others, you say yes to yourself
 https://captainawkward.com/2016/04/19/855-overcoming-imposter-syndrome-and-accessing-mental-health-support/
 
 https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/
+
+http://journal.neilgaiman.com/2017/05/the-neil-story-with-additional-footnote.html
+
+https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/
