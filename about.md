@@ -10,7 +10,7 @@ I'm currently a Postdoctoral Research Assistant at Mississippi State University 
 
 I completed my PhD in Biology at the [University of Arkansas](www.uark.edu) through the [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/) in March 2017.
 
-I'm an **applied conservation ecologist**, which basically means that I do scientific work to solve a problem or answer a question that comes from the natural resource manaement community. Usually, that involves at least two of three things: birds, wetlands or decision making.
+I'm an **applied conservation ecologist**, which basically means that I do scientific work to solve a problem or answer a question that comes from the natural resource management community. Usually, that involves at least two of three things: birds, wetlands or decision making.
 
 As an **ornithologist**, I model the migratory connectivity of birds and work to better understand when they migrate and where.
 
