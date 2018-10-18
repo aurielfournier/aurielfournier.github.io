@@ -27,3 +27,6 @@ https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/
 https://timescavengers.blog/2018/06/11/imposter-syndrome-in-graduate-school/
 
 https://www.apmpodcasts.org/thwod/2018/08/impostor-syndrome-true-tales-tricks-and-tactics-for-when-youre-feeling-fraudulent/
+
+http://nymag.com/scienceofus/2016/04/do-you-have-severe-impostor-syndrome.html
+
