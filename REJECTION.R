@@ -43,3 +43,42 @@ a <- plot_grid(m_by_rejects, m_by_desk,
 
 
 ggsave(a, file="aurielfournier.github.io/images/papers.jpeg", width=20, height=15, units="cm", dpi=300)
+
+
+## JOBS
+
+
+dat <- gs_title("data_on_job_MSU_result")
+
+datdat <- gs_read(dat) %>%
+        group_by(offer, interview) %>%
+        summarize(count =n())
+
+a <- ggplot(data=datdat, 
+  aes(x=interview, y=count, fill=offer, group=offer))+
+  geom_bar(position="dodge", stat="identity")+
+  scale_fill_manual(values=c("#7570b3","#d95f02"),
+                    name="Received offer?")+
+  xlab("Was interviewed?")
+
+
+ggsave(a, file="aurielfournier.github.io/images/jobs.jpeg", width=20, height=15, units="cm", dpi=300)
+
+
+## Grants
+
+dat <- gs_title("data_on_grants")
+
+datdat <- gs_read(dat) %>%
+  mutate(year=factor(year)) %>%
+  group_by(year, rejected_y_n) %>%
+  summarize(count=n())
+
+a <- ggplot(data=datdat, 
+            aes(x=year, y=count, fill=rejected_y_n))+
+  geom_bar(position="dodge", stat="identity", color="black")+
+  scale_fill_manual(values=c("#7570b3","#1b9e77","#d95f02"),
+                    name="Rejected?")
+
+
+ggsave(a, file="aurielfournier.github.io/images/grants.jpeg", width=20, height=15, units="cm", dpi=300)
