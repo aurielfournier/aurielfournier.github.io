@@ -4,35 +4,51 @@ title: Publications
 permalink: /publications/
 ---
 
-In Press
+11 papers [all first author], 5 peer reviewed reports [2 first author]. 8 in review. 
 
-**Fournier, A.M.V.**, Krementz, D.G. *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology** (copy available upon request)
+2018
+
+**Fournier, AMV**, Krementz, DG. [*Confirmation of diving and swimming behavior in the Sora (*Porzana carolina*)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_Krementz_2018_WJO.pdf) **Wilson Journal of Ornithology**  130:778-780 doi: 10.1676/17-046.1
+
+**Fournier, AMV**, Mengel, DC, Krementz, DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. doi: 10.1098/rsos.171664
 
 2017 
 
-**Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The timing of autumn Sora (Porzana carolina) migration in Missouri Wilson Journal of Ornithology 129:675-770 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2017_Wilson.pdf)
+**Fournier, AMV**, Mengel, DC, Gbur, EE, Krementz, DG. [*The timing of autumn Sora (Porzana carolina) migration in Missouri* **Wilson Journal of Ornithology**](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2017_Wilson.pdf) 129:675-770 doi: 10.1676/16-108.1
 
-**Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** 4:15-22 DOI: 10.1515/ami-2017-0003 [pdf link](https://www.degruyter.com/downloadpdf/j/ami.2017.4.issue-1/ami-2017-0003/ami-2017-0003.pdf)
 
-**Fournier, A.M.V.**, Drake K.L., Tozer D.C. *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf) [Preprint](http://biorxiv.org/content/early/2017/06/01/144527)  data: Data Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.nb115
+**Fournier, AMV**, Mengel, DC, Krementz, DG. [*Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets*](https://www.degruyter.com/downloadpdf/j/ami.2017.4.issue-1/ami-2017-0003/ami-2017-0003.pdf) **Animal Migration** 4:15-22 doi: 10.1515/ami-2017-0003 
 
-**Fournier, A.M.V.**, Krementz, D.G. *Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails* **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf)
+**Fournier, AMV**, Drake, KL, Tozer, DC. [*Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf)  **Journal of Avian Biology** 48: 1556-1562 doi:10.1111/jav.01273 
 
-**Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf)   data: Data Dryad Digital Repository. doi:10.5061/dryad.r4847
+**Fournier, AMV**, Krementz, DG. [*Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf) **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 
+
+**Fournier, AMV**, Sullivan, A, Bump, J, Perkins, M, Shieldcastle, MC, King, S. [*Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf) **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723   
+
+**Fournier, A.M.V.**, Mengel, D.C. The timing of autumn rail migration in Missouri *Missouri Department of Conservation Science Note*
+
 
 2016 
 
-**Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. *Levels of mercury in feathers of Clapper Rails (Rallus crepitans) over 45 Years in coastal salt marshes of New Hanover county, North Carolina* **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi:10.1007/s00128-016-1870-z [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf)      data: Figshare doi:m9.figshare.1621405.v1
+**Fournier, AMV**, Welsh, KJ, Polito, M, Emslie, S, Brasso, R. [*Levels of mercury in feathers of Clapper Rails over 45 Years in coastal salt marshes of New Hanover county, North Carolina*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf) **Bulletin of Environmental Contamination & Toxicology** 97:469-473 doi:10.1007/s00128-016-1870-z 
+
+**Fournier, AMV.** Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : *Final Report USFWS Division of Migratory Birds* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
 
 2015
 
-**Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A.  _Comparison of arrival dates of spring rail migration in the southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 doi:10.1675/063.038.0313 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) 
+**Fournier, AMV**, Shieldcastle, MC, Kashmer, T, Mylecraine, KA.  [*Comparison of arrival dates of spring rail migration in the southwest Lake Erie Marshes, Ohio, USA.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) **Waterbirds** 38: 312-314 doi:10.1675/063.038.0313  
 
-**Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 doi:10.1002/wsb.603 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%2C%20Bond%20-%202015%20-%20Wildlife%20Society%20Bulletin.pdf) 
+**Fournier, AMV**, Bond, AL. [*Volunteer field staff are bad for wildlife ecology*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%2C%20Bond%20-%202015%20-%20Wildlife%20Society%20Bulletin.pdf)  **The Wildlife Society Bulletin** 39: 819-821 doi:10.1002/wsb.603 
+
+**Fournier, A.M.V.,** K. Willard. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: *Final Report USFWS Division of Migratory Birds Webless Program* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/KingRailNesting&BroodRearingEcologyInManagedWetlands_FinalReport.pdf)
+
+Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. *Final Report to U.S. FWS* 
+
+Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. *Final Report to U.S. Forest Service*
 
 2013 
 
-**Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K.  _A morphometric model to predict the sex of virginia rails_ **The Wildlife Society Bulletin** 27: 881-886 doi:10.1002/wsb.323 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  
+**Fournier, AMV**, Shieldcastle, MC, Fries, AC, and Bump, JK.  [*A morphometric model to predict the sex of virginia rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  **The Wildlife Society Bulletin** 27: 881-886 doi:10.1002/wsb.323 
 
 
 ### My project has been highlighted in several blog posts and podcasts
