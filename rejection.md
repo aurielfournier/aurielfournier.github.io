@@ -23,7 +23,7 @@ Image Description -Four panel figure, Upper left, scatterplot of months on x axi
 
 <img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/grants.jpeg">
 
-Image Description Bar chart showing year on the x axis, and count on the y, with the bars grouped into grants which were rejected, thsoe which were funded, and those which have not yet been rejected. The vast majority, have been rejected. 
+Image Description Bar chart showing year on the x axis, and count on the y, with the bars grouped into grants which were rejected, those which were funded, and those which have not yet been rejected. The vast majority, have been rejected. 
   
  [Tabular data included in the graph](https://docs.google.com/spreadsheets/d/1MnEXtnXcgntgvLBmL_VNV1oRK0LTjvG0hmZzdUBu_vs/edit?usp=sharing) 
 
