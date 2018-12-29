@@ -17,7 +17,8 @@ m_by_rejects <- ggplot(data=datdat,
        \n to acceptance")+
   theme(legend.position=c(0.6,0.8),
         legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'))+
-  scale_color_manual(values=c("#7570b3","#d95f02"))
+  scale_color_manual(values=c("#7570b3","#d95f02"))+
+  scale_x_continuous(breaks=c(0,12,24,36))
 
 m_by_desk <- ggplot(data=datdat, 
        aes(x=months_betwee, y=desk_rejects, color=published_yet))+
@@ -27,7 +28,8 @@ m_by_desk <- ggplot(data=datdat,
        \n to acceptance")+
   theme(legend.position=c(0.6,0.8),
         legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'))+
-  scale_color_manual(values=c("#7570b3","#d95f02"))
+  scale_color_manual(values=c("#7570b3","#d95f02"))+
+  scale_x_continuous(breaks=c(0,12,24,36))
 
 rejects_hist <- ggplot(data=datdat,
        aes(x=rejects))+
