@@ -44,7 +44,7 @@ a <- plot_grid(m_by_rejects, m_by_desk,
           rejects_hist, desk_hist, nrow=2)
 
 
-ggsave(a, file="aurielfournier.github.io/images/papers.jpeg", width=20, height=15, units="cm", dpi=300)
+ggsave(a, file="~/aurielfournier.github.io/images/papers.jpeg", width=20, height=15, units="cm", dpi=300)
 
 
 ## JOBS
