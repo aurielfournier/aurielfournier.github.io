@@ -33,8 +33,10 @@ m_by_desk <- ggplot(data=datdat,
 
 rejects_hist <- ggplot(data=datdat,
        aes(x=rejects))+
-  geom_histogram()
-
+  geom_histogram()+
+  annotate("text", label=paste0("Last Updated ", Sys.Date()), 
+           x=3, y=6)
+  
 desk_hist <- ggplot(data=datdat,
        aes(x=desk_rejects))+
   geom_histogram()
