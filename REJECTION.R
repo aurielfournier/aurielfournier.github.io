@@ -15,9 +15,10 @@ m_by_rejects <- ggplot(data=datdat,
   ylim(0,6)+
   xlab("Months from first submission 
        \n to acceptance")+
-  theme(legend.position=c(0.6,0.8),
+  theme(legend.position="non",
         legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'))+
-  scale_color_manual(values=c("#7570b3","#d95f02"))+
+  scale_color_manual(values=c("#7570b3","#d95f02"),
+                     name="Published \nyet?")+
   scale_x_continuous(breaks=c(0,12,24,36))
 
 m_by_desk <- ggplot(data=datdat, 
@@ -26,10 +27,14 @@ m_by_desk <- ggplot(data=datdat,
   ylim(0,6)+
   xlab("Months from first submission 
        \n to acceptance")+
-  theme(legend.position=c(0.6,0.8),
-        legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'))+
-  scale_color_manual(values=c("#7570b3","#d95f02"))+
-  scale_x_continuous(breaks=c(0,12,24,36))
+  ylab("Desk Rejects")+
+  theme(legend.position=c(0.5,0.8),
+        legend.background = element_rect(colour = 'black', 
+                                  fill = 'white', linetype='solid'))+
+  scale_color_manual(values=c("#7570b3","#d95f02"),
+                     name="Published yet?")+
+  scale_x_continuous(breaks=c(0,12,24,36))+
+  guides(color=guide_legend(ncol=2))
 
 rejects_hist <- ggplot(data=datdat,
        aes(x=rejects))+
