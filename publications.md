@@ -4,7 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-11 papers [all first author], 5 peer reviewed reports [2 first author]. 8 in review. 
+12 papers [all first author], 5 peer reviewed reports [2 first author]. 10 papers in review [5 first author]. 4 reports in review [1 first author]. 
+
+
+2019   
+**Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)* **Herpetological Review** (In Press)
 
 2018
 
@@ -34,6 +38,7 @@ permalink: /publications/
 
 **Fournier, AMV.** Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : *Final Report USFWS Division of Migratory Birds* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
 
+
 2015
 
 **Fournier, AMV**, Shieldcastle, MC, Kashmer, T, Mylecraine, KA.  [*Comparison of arrival dates of spring rail migration in the southwest Lake Erie Marshes, Ohio, USA.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) **Waterbirds** 38: 312-314 doi:10.1675/063.038.0313  
@@ -49,6 +54,41 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2013 
 
 **Fournier, AMV**, Shieldcastle, MC, Fries, AC, and Bump, JK.  [*A morphometric model to predict the sex of virginia rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  **The Wildlife Society Bulletin** 27: 881-886 doi:10.1002/wsb.323 
+
+In Review 
+
+`#` graduate student mentee
+
+**Fournier, AMV**, White, ER, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies* [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/)
+
+**Fournier, A.M.V.,** Lyons, J.E., Wilson, R.R., Gleason, J.S., Adams, E.M., Brush, J.M., Cooper, R.J., DeMaso, S.J., Driscoll, M.J.L., Frederick, P.C., Jodice, P.G.R., Reeves, D.B., Seymour, M.A., Sharuga, S.M., Tirpak, J.M., Vermillion, W.G., Zenzal Jr. T.J., Woodrey, M.S. *The Gulf of Mexico Avian Monitoring Network: Application of structured decision making for coordinated, integrated monitoring*
+
+**Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *Unpaid work and access to science professions*
+
+**Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
+
+**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundationn*
+
+
+Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS *Habitat use of five wintering salt marsh birds in the Northern Gulf of Mexico*   
+
+Wilson, R.R., **Fournier, AMV,** Lyons, JE, Gleason, J, Adams, E, Barnhill, L, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Eaton, M, Frederick, P, Just, M, Seymour, M, Tirpak, J, Woodrey, MS *Structured Decision Making and Optimal Bird Monitoring in the Northern Gulf of Mexico*
+
+Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
+
+Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations*
+
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S *Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*
+
+Wilson, RR, Woodrey, MS, **Fournier, AMV,** Gleason, JS, Lyons, JE *Chapter 1: Why a Strategic Avian Monitoring Plan for the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan**   
+
+**Fournier, AMV,** Woodrey, MS, Wilson, RR, Sharuga, S, Reeves, D. *Chapter 2: Challenges, Opportunities and Stakeholder Values* **Gulf of Mexico Strategic Avian Monitoring Plan**
+
+Woodrey, MS, **Fournier, AMV,** Cooper, RJ. *Chapter 4: Marshbirds*  **Gulf of Mexico Strategic Avian Monitoring Plan**
+
+Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integration Across the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan**
+
+
 
 
 ### My project has been highlighted in several blog posts and podcasts
