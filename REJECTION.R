@@ -129,6 +129,9 @@ usa <- readRDS("~/GBNERR_wintermarshbirds/gis_data/USA_adm1.rds")
 can <- readRDS("~/GBNERR_wintermarshbirds/gis_data/CAN_adm1.rds")
 mex <- readRDS("~/GBNERR_wintermarshbirds/gis_data/MEX_adm1.rds")
 
+us <- map_data("state") 
+us <- dplyr::filter(us, region=="michigan"|region=="wisconsin")
+
 
 a <- ggplot()+
   geom_polygon(data=can,aes(x=long,y=lat,group=group), col="black", fill="white")+
@@ -137,7 +140,8 @@ a <- ggplot()+
   coord_map("albers",lat0=25, lat1=60,xlim=c(-125,-70),ylim=c(25,57))+
   geom_polygon(data=ms, aes(x=long,y=lat,
                                 group=group),
-               color="black",fill="#7570b3")
+               color="black",fill="#7570b3")+
+  geom_polygon(data=us,aes(x=long,y=lat,group=group), col="black", fill=NA)
 
 ggsave(a, file="aurielfournier.github.io/images/INHS_jobs_geography.jpeg", width=20, height=15, units="cm", dpi=300)
 

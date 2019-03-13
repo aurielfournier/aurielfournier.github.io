@@ -47,3 +47,9 @@ I applied for a variety of kinds of jobs as well.
 <img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/INHS_jobs_types.jpeg">
 
 Image description - four types. 1 instructor position, 5 permanent non-academic positions. 3 permament non-TT positions. and 8 postdoc positions. 
+
+I also applied for jobs across several US states. 
+
+<img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/INHS_jobs_geography.jpeg">
+
+Image Description - the lower 48 US states, with Colorado, Louisiana, Mississippi, Alabama, Georgia, Missouri, Illinois, Wisconsin, Minnesota and Michigan colored in purple.. 
