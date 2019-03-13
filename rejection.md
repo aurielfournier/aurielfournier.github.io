@@ -29,11 +29,16 @@ Image Description Bar chart showing year on the x axis, and count on the y, with
 
 
 ## Jobs 
-This is the data on the job search that resulted in my current position. 
+This is the data on the job search that resulted in my postdoc at Mississippi State University from 2017-2019.  
 
-<img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/jobs.jpeg">
+<img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/postdoc_jobs.jpeg">
 
 Image Description Bar Chart, showing that I applied for 40 jobs, and was not interviewed for 36 of them. Of the 4 I was interviewed for, I received 2 offers. 
 
 
+This is the data for the job search that resulted in my position at the Illinois Natural History Survey. 
+
+<img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/INHS_jobs.jpeg">
+
+Image Description - Bar Chart, showing I applied for 17 jobs total. 9 of which I did not get an interview for. 4 of which I never heard back from at all. 4 of which I was interviewed for. I received 2 offers from those interviews, and I accepted the job at INHS before hearing back from the other two. 
 

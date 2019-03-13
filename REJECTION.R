@@ -71,7 +71,26 @@ a <- ggplot(data=datdat,
   xlab("Was interviewed?")
 
 
-ggsave(a, file="aurielfournier.github.io/images/jobs.jpeg", width=20, height=15, units="cm", dpi=300)
+ggsave(a, file="aurielfournier.github.io/images/postdoc_jobs.jpeg", width=20, height=15, units="cm", dpi=300)
+
+dat <- gs_title("job_search_INHS_director")
+
+datdat <- gs_read(dat) %>%
+  mutate(interview = ifelse(is.na(date_interview),"no response",
+                      ifelse(date_interview=="N","no","yes")),
+         offer = ifelse(is.na(offer),"accepted before decision", offer)) %>%
+  group_by(interview, offer) %>%
+  summarize(count =n())
+
+a <- ggplot(data=datdat, 
+            aes(x=interview, y=count, fill=offer, group=offer))+
+  geom_bar(position="dodge", stat="identity")+
+  scale_fill_manual(values=c("#7570b3","#d95f02","#1b9e77"),
+                    name="Received offer?")+
+  xlab("Was interviewed?")
+
+
+ggsave(a, file="aurielfournier.github.io/images/INHS_jobs.jpeg", width=20, height=15, units="cm", dpi=300)
 
 
 ## Grants
