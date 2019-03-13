@@ -3,6 +3,14 @@ library(ggplot2)
 library(tidyverse)
 library(cowplot)
 library(RColorBrewer)
+library(rgdal)
+library(maptools)
+library(tidyverse)
+library(gridExtra)
+library(maps)
+library(grid)
+library(sp)
+library(auriel)
 
 dat <- gs_title("data_on_my_papers")
 
@@ -89,8 +97,49 @@ a <- ggplot(data=datdat,
                     name="Received offer?")+
   xlab("Was interviewed?")
 
-
 ggsave(a, file="aurielfournier.github.io/images/INHS_jobs.jpeg", width=20, height=15, units="cm", dpi=300)
+
+dat <- gs_title("job_search_INHS_director")
+
+datdat <- gs_read(dat) %>%
+            group_by(type) %>%
+            summarize(count = n())
+
+a <- ggplot(data=datdat, 
+            aes(x=type, y=count, fill=type))+
+  geom_bar(position="dodge", stat="identity")+
+  scale_fill_manual(values=c("#7570b3","#d95f02","#1b9e77","#e7298a"))+
+  xlab("Position Type")+
+  theme(legend.position = "none")
+
+
+ggsave(a, file="aurielfournier.github.io/images/INHS_jobs_types.jpeg", width=20, height=15, units="cm", dpi=300)
+
+
+dat <- gs_title("job_search_INHS_director")
+
+
+datdat <- gs_read(dat) %>%
+  group_by(state) %>%
+  summarize(countn = n())
+
+ms <- usa[usa$NAME_1 %in% datdat$state,]
+
+usa <- readRDS("~/GBNERR_wintermarshbirds/gis_data/USA_adm1.rds")
+can <- readRDS("~/GBNERR_wintermarshbirds/gis_data/CAN_adm1.rds")
+mex <- readRDS("~/GBNERR_wintermarshbirds/gis_data/MEX_adm1.rds")
+
+
+a <- ggplot()+
+  geom_polygon(data=can,aes(x=long,y=lat,group=group), col="black", fill="white")+
+  geom_polygon(data=mex,aes(x=long,y=lat,group=group), col="black", fill="white")+
+  geom_polygon(data=usa,aes(x=long,y=lat,group=group), col="black", fill="white")+
+  coord_map("albers",lat0=25, lat1=60,xlim=c(-125,-70),ylim=c(25,57))+
+  geom_polygon(data=ms, aes(x=long,y=lat,
+                                group=group),
+               color="black",fill="#7570b3")
+
+ggsave(a, file="aurielfournier.github.io/images/INHS_jobs_geography.jpeg", width=20, height=15, units="cm", dpi=300)
 
 
 ## Grants
