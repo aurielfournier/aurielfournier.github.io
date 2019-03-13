@@ -42,3 +42,8 @@ This is the data for the job search that resulted in my position at the Illinois
 
 Image Description - Bar Chart, showing I applied for 17 jobs total. 9 of which I did not get an interview for. 4 of which I never heard back from at all. 4 of which I was interviewed for. I received 2 offers from those interviews, and I accepted the job at INHS before hearing back from the other two. 
 
+I applied for a variety of kinds of jobs as well. 
+
+<img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/INHS_jobs_types.jpeg">
+
+Image description - four types. 1 instructor position, 5 permanent non-academic positions. 3 permament non-TT positions. and 8 postdoc positions. 
