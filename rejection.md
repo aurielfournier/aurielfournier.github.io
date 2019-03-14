@@ -56,7 +56,7 @@ Permanent non-TT positions are permanent jobs that are not Tenure Track but are 
 Permament non-academic, includes permament jobs that were not at universities, so non-profit, federal and state agency jobs. 
 
 
-I also applied for jobs across several US states. My job search was geographically limited in that I was only applying for jobs that were within a 1 hour drive of atleast once place my husband would be able to work. Which eliminated a lot of jobs. 
+I also applied for jobs across several US states. My job search was geographically limited in that I was only applying for jobs that were within a 1 hour drive of atleast one place my husband would be able to work. Which eliminated a lot of jobs. 
 
 <img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/INHS_jobs_geography.jpeg">
 
