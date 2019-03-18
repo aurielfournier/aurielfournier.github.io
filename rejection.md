@@ -28,36 +28,6 @@ Image Description Bar chart showing year on the x axis, and count on the y, with
  [Tabular data included in the graph](https://docs.google.com/spreadsheets/d/1MnEXtnXcgntgvLBmL_VNV1oRK0LTjvG0hmZzdUBu_vs/edit?usp=sharing) 
 
 
-## Jobs 
+## Jobs
 
-### This is the data on the job search that resulted in my postdoc at Mississippi State University from 2017-2019.  
-
-<img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/postdoc_jobs.jpeg">
-
-Image Description Bar Chart, showing that I applied for 40 jobs, and was not interviewed for 36 of them. Of the 4 I was interviewed for, I received 2 offers. 
-
-
-### This is the data for the job search that resulted in my position at the Illinois Natural History Survey. 
-
-I will preface these graphs by saying, this job search was for me very different then when I was looking for my first post doc. I balanced applying for jobs, with applying for grants that would have extended my postdoc position. If I hadn't been trying to extend my postdoc, I would have spent my time differently, and probably would have applied for more jobs.
-
-<img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/INHS_jobs.jpeg">
-
-Image Description - Bar Chart, showing I applied for 17 jobs total. 9 of which I did not get an interview for. 4 of which I never heard back from at all. 4 of which I was interviewed for. I received 2 offers from those interviews, and I accepted the job at INHS before hearing back from the other two (so I do not know if I would have received an offer). 
-
-I applied for a variety of kinds of jobs as well. 
-
-<img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/INHS_jobs_types.jpeg">
-
-Image description - four types. 1 instructor position, 5 permanent non-academic positions. 3 permament non-TT positions. and 8 postdoc positions. 
-
-Permanent non-TT positions are permanent jobs that are not Tenure Track but are at a university, but might still be at a university (such as the position I ended up accepting).
-
-Permament non-academic, includes permament jobs that were not at universities, so non-profit, federal and state agency jobs. 
-
-
-I also applied for jobs across several US states. My job search was geographically limited in that I was only applying for jobs that were within a 1 hour drive of atleast one place my husband would be able to work. Which eliminated a lot of jobs. 
-
-<img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/INHS_jobs_geography.jpeg">
-
-Image Description - the lower 48 US states, with Colorado, Louisiana, Mississippi, Alabama, Georgia, Missouri, Illinois, Wisconsin, Minnesota and Michigan colored in purple.
+For info on my two post-PhD job hunts - [see this post](http://aurielfournier.github.io/job-hunt/)
