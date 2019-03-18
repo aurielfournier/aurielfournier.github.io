@@ -18,20 +18,22 @@ datdat <- gs_read(dat) %>%
   mutate(published_yet = ifelse(is.na(month_accepted),"no","yes"))
 
 m_by_rejects <- ggplot(data=datdat, 
-       aes(x=months_betwee, y=rejects, color=published_yet))+
-  geom_point()+
+       aes(x=months_betwee, y=rejects, 
+           group=published_yet))+
+  geom_point(size=2, aes(color=published_yet, shape=published_yet))+
   ylim(0,6)+
   xlab("Months from first submission 
        \n to acceptance")+
   theme(legend.position="non",
         legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'))+
-  scale_color_manual(values=c("#7570b3","#d95f02"),
+  scale_color_manual(values=c("#1f78b4","#b2df8a"),
                      name="Published \nyet?")+
   scale_x_continuous(breaks=c(0,12,24,36))
 
 m_by_desk <- ggplot(data=datdat, 
-       aes(x=months_betwee, y=desk_rejects, color=published_yet))+
-  geom_point()+
+       aes(x=months_betwee, y=desk_rejects, 
+           group=published_yet))+
+  geom_point(size=2, aes(color=published_yet, shape=published_yet))+
   ylim(0,6)+
   xlab("Months from first submission 
        \n to acceptance")+
@@ -39,10 +41,11 @@ m_by_desk <- ggplot(data=datdat,
   theme(legend.position=c(0.5,0.8),
         legend.background = element_rect(colour = 'black', 
                                   fill = 'white', linetype='solid'))+
-  scale_color_manual(values=c("#7570b3","#d95f02"),
-                     name="Published yet?")+
+  scale_color_manual(values=c("#1f78b4","#b2df8a"))+
   scale_x_continuous(breaks=c(0,12,24,36))+
-  guides(color=guide_legend(ncol=2))
+  guides(color=guide_legend(ncol=2, title="Published Yet?"),
+         shape=guide_legend(ncol=2, title="Published Yet?"))
+  
 
 rejects_hist <- ggplot(data=datdat,
        aes(x=rejects))+
