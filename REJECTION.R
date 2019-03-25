@@ -38,13 +38,13 @@ m_by_desk <- ggplot(data=datdat,
   xlab("Months from first submission 
        \n to acceptance")+
   ylab("Desk Rejects")+
-  theme(legend.position=c(0.5,0.8),
+  theme(legend.position=c(0.7,0.8),
         legend.background = element_rect(colour = 'black', 
                                   fill = 'white', linetype='solid'))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"))+
   scale_x_continuous(breaks=c(0,12,24,36))+
-  guides(color=guide_legend(ncol=2, title="Published Yet?"),
-         shape=guide_legend(ncol=2, title="Published Yet?"))
+  guides(color=guide_legend(ncol=1, title="Published \nYet?"),
+         shape=guide_legend(ncol=1, title="Published \nYet?"))
   
 
 rejects_hist <- ggplot(data=datdat,
