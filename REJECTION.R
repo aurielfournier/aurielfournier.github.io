@@ -48,6 +48,7 @@ m_by_desk <- ggplot(data=datdat,
   
 
 rejects_hist <- ggplot(data=datdat,
+                       
        aes(x=rejects))+
   geom_histogram()+
   annotate("text", label=paste0("Last Updated ", Sys.Date()), 
@@ -63,6 +64,44 @@ a <- plot_grid(m_by_rejects, m_by_desk,
 
 
 ggsave(a, file="~/aurielfournier.github.io/images/papers.jpeg", width=20, height=15, units="cm", dpi=300)
+
+
+
+## Grants
+
+dat <- gs_title("data_on_grants")
+
+datdat <- gs_read(dat) %>%
+  mutate(year=factor(year)) %>%
+  group_by(year, rejected_y_n) %>%
+  summarize(count=n())
+
+a <- ggplot(data=datdat, 
+            aes(x=year, y=count, fill=rejected_y_n))+
+  geom_bar(position="dodge", stat="identity", color="black")+
+  scale_fill_manual(values=c("#1f78b4","#1b9e77","#b2df8a"),
+                    name="Rejected?")
+
+
+ggsave(a, file="aurielfournier.github.io/images/grants.jpeg", width=20, height=15, units="cm", dpi=300)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## JOBS
@@ -148,21 +187,3 @@ a <- ggplot()+
 
 ggsave(a, file="aurielfournier.github.io/images/INHS_jobs_geography.jpeg", width=20, height=15, units="cm", dpi=300)
 
-
-## Grants
-
-dat <- gs_title("data_on_grants")
-
-datdat <- gs_read(dat) %>%
-  mutate(year=factor(year)) %>%
-  group_by(year, rejected_y_n) %>%
-  summarize(count=n())
-
-a <- ggplot(data=datdat, 
-            aes(x=year, y=count, fill=rejected_y_n))+
-  geom_bar(position="dodge", stat="identity", color="black")+
-  scale_fill_manual(values=c("#7570b3","#1b9e77","#d95f02"),
-                    name="Rejected?")
-
-
-ggsave(a, file="aurielfournier.github.io/images/grants.jpeg", width=20, height=15, units="cm", dpi=300)
