@@ -83,7 +83,7 @@ a <- ggplot(data=datdat,
                     name="Rejected?")
 
 
-ggsave(a, file="aurielfournier.github.io/images/grants.jpeg", width=20, height=15, units="cm", dpi=300)
+ggsave(a, file="~/aurielfournier.github.io/images/grants.jpeg", width=20, height=15, units="cm", dpi=300)
 
 
 
