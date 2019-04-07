@@ -4,11 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
-12 papers [all first author], 5 peer reviewed reports [2 first author]. 10 papers in review [5 first author]. 4 reports in review [1 first author]. 
+14 papers [13 first author], 6 peer reviewed reports [2 first author]. 4 peer reviewed chapters [1 first author]. 7 papers in review [4 first author]. 
 
 
 2019   
 **Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)* **Herpetological Review** (In Press)
+
+**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundationn* **Waterbirds** (In Press)
+
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S *Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky* **Ecology** (In Press)
+
 
 2018
 
@@ -67,7 +72,6 @@ In Review
 
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
 
-**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundationn*
 
 
 Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS *Habitat use of five wintering salt marsh birds in the Northern Gulf of Mexico*   
@@ -78,7 +82,6 @@ Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connecti
 
 Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations*
 
-Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S *Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*
 
 Wilson, RR, Woodrey, MS, **Fournier, AMV,** Gleason, JS, Lyons, JE *Chapter 1: Why a Strategic Avian Monitoring Plan for the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan**   
 
