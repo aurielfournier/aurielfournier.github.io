@@ -78,7 +78,8 @@ datdat <- gs_read(dat) %>%
 
 a <- ggplot(data=datdat, 
             aes(x=year, y=count, fill=rejected_y_n))+
-  geom_bar(position="dodge", stat="identity", color="black")+
+  geom_bar( stat="identity", color="black",
+           position = position_dodge2(width = 0.9, preserve = "single"))+
   scale_fill_manual(values=c("#1f78b4","#1b9e77","#b2df8a"),
                     name="Rejected?")
 
