@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+[GoMAMN](#gomamn)
+
 I am a scientist who reaches across the boundary of quantitative and field ecology to answer robust and innovative scientific questions and provide valuable data to support on the ground conservation. Currently I am working as apart of the Gulf of Mexico Avian Monitoring Network [gomamn.org](https://gomamn.org/) using structured decision makin to support decision making behind bird conservation priorities.  
 
 Secretive marsh birds provide a great system to ask a variety of natural history, basic science and applied questions as well as an opportunity to bridge the gap between consumptive and non consumptive wildlife enthusiasts and unite them behind wetland conservation and management actions, especially in the face of climate change. My research has frequently employed large scale collaboratively generated data sets, either from field projects, or museums, which allow us to ask more robust questions about a species then I could answer on my own.
@@ -12,7 +14,7 @@ Part of all my research is connecting what I do back to the public. I believe th
 
 In addition, we need a diverse workforce studying and managing that environment (and I mean more then just gender diversity). I work towards raising the field of ecology's awareness of the detrimental impact of things like unpaid internships (Fournier and Bond 2015) and unfair hiring practices which discriminate against many who want to enter science.
 
-### Informing Conservation Decision Making in the Gulf of Mexico
+### <a name="gomamn"></a>Gulf of Mexico Avian Monitoring Network
 > (Funding by the National Fish and Wildlife Foundation)
 
 My current work, with the [Gulf of Mexico Avian Monitoring Network](gomamn.org) seeks to set priorities for bird monitoring in the Gulf of Mexico by using a Structured Decision Making framework. 
