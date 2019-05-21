@@ -25,3 +25,7 @@ The exact mechanism of why this is happening needs further study, but a variety 
 [Tiger sharks eat songbirds](https://cosmosmagazine.com/biology/tiger-sharks-eat-songbirds) Cosmos
 
 [Baby tiger sharks eat songbirds ](https://www.eurekalert.org/pub_releases/2019-05/fm-bts051419.php) Eureka Alert
+
+[Baby sharks are eating the birds that live in your backyard](https://www.popsci.com/baby-tiger-sharks-eat-backyard-birds) Popular Science
+
+[Tiger sharks feast on songbirds, study shows](https://www.dw.com/en/tiger-sharks-feast-on-songbirds-study-shows/a-48815062) DW
