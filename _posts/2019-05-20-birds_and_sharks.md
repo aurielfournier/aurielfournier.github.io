@@ -46,3 +46,11 @@ Mirror
 [Look Out, Songbirds — Baby Sharks Want to Eat You](https://www.livescience.com/65529-baby-sharks-eat-songbirds.html) Live Science
 
 [DNA analysis of shark barf tells scientists what kinds of birds the sharks scavenge](https://phys.org/news/2019-05-dna-analysis-shark-barf-scientists.html) Phys.org
+
+[Baby sharks are eating a surprising number of land-based birds](https://theweek.com/speedreads/842758/baby-sharks-are-eating-surprising-number-landbased-birds) The Week 
+
+[Baby tiger sharks eat songbirds like sparrows, doves, study finds](https://www.foxnews.com/science/baby-tiger-sharks-eat-songbirds-study) Fox News
+
+[Baby Tiger Sharks Are Eating Backyard Birds, Study Finds](https://www.geek.com/news/baby-tiger-sharks-are-eating-backyard-birds-study-finds-1788168/) Geek.com
+
+[Study finds link between backyard birds and tiger sharks](http://masgc.org/news/article/study-finds-link-between-backyard-birds-and-tiger-sharks) MS/AL Seagrant
