@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky
-comments: true
+title: Tiger sharks eat songbirds - scavenging a windfall of nutrients from the sky
+comments: false
 ---
 
 Drymon, JM, Feldheim, K, Fournier, AMV, Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier_2019_Ecology.pdf) **Ecology** 10.1002/ecy.2728
