@@ -17,3 +17,11 @@ The exact mechanism of why this is happening needs further study, but a variety 
 
 
 [How a Bunch of Songbirds Ended Up Inside the Stomachs of Sharks](https://www.theatlantic.com/science/archive/2019/05/how-songbirds-ended-inside-stomachs-sharks/589909/) The Atlantic 
+
+[Giant tiger sharks eat backyard birds, surprising study reveals](https://www.nationalgeographic.com/animals/2019/05/baby-tiger-sharks-eat-songbirds/) National Geographic
+
+[Scientists Pumped Baby Tiger Sharks' Stomachs, and Found They Like to Eat Songbirds](https://www.newsweek.com/baby-tiger-sharks-eat-songbirds-say-scientists-who-pumped-shark-stomachs-1431474) Newsweek
+
+[Tiger sharks eat songbirds](https://cosmosmagazine.com/biology/tiger-sharks-eat-songbirds) Cosmos
+
+[Baby tiger sharks eat songbirds ](https://www.eurekalert.org/pub_releases/2019-05/fm-bts051419.php) Eureka Alert
