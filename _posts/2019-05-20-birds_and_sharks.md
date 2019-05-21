@@ -38,3 +38,11 @@ The exact mechanism of why this is happening needs further study, but a variety 
 Mirror
 
 [Sharks may be picking off British songbirds on their annual migrations](https://www.telegraph.co.uk/science/2019/05/21/sharks-may-picking-british-songbirds-annual-migrations/) Telegraph
+
+[Baby tiger sharks eat SONGBIRDS like sparrows and doves that fall out the sky when crossing the ocean](https://www.dailymail.co.uk/sciencetech/article-7054483/Baby-tiger-sharks-eat-SONGBIRDS-like-sparrows-doves-order-survive.html) Daily Mail
+
+[Shark barf DNA tests show songbirds are on the menu](https://www.cnet.com/news/shark-barf-dna-tests-show-songbirds-are-on-the-menu/) CNet
+
+[Look Out, Songbirds — Baby Sharks Want to Eat You](https://www.livescience.com/65529-baby-sharks-eat-songbirds.html) Live Science
+
+[DNA analysis of shark barf tells scientists what kinds of birds the sharks scavenge](https://phys.org/news/2019-05-dna-analysis-shark-barf-scientists.html) Phys.org
