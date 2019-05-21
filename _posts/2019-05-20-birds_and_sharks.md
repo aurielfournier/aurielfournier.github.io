@@ -31,3 +31,10 @@ The exact mechanism of why this is happening needs further study, but a variety 
 [Tiger sharks feast on songbirds, study shows](https://www.dw.com/en/tiger-sharks-feast-on-songbirds-study-shows/a-48815062) DW
 
 [Baby tiger sharks gobble up songbirds](https://www.nature.com/articles/d41586-019-01612-w) Nature
+
+[Baby sharks are eating songbirds, scientists discover](https://www.independent.co.uk/environment/baby-tiger-sharks-songbirds-eat-diet-sparrows-doves-a8923241.html) The Independent 
+
+[Baby tiger sharks EAT garden songbirds as they migrate over oceans](https://www.mirror.co.uk/science/baby-tiger-sharks-eat-garden-16177669)
+Mirror
+
+[Sharks may be picking off British songbirds on their annual migrations](https://www.telegraph.co.uk/science/2019/05/21/sharks-may-picking-british-songbirds-annual-migrations/) Telegraph
