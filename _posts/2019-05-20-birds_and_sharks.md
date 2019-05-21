@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tiger sharks eat songbirds - scavenging a windfall of nutrients from the sky
+title: Tiger sharks eat songbirds scavenging a windfall of nutrients from the sky
 comments: false
 ---
 
