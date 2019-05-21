@@ -14,3 +14,6 @@ The exact mechanism of why this is happening needs further study, but a variety 
 ## Popular Press Coverage
 
 [Tiger sharks feast on migratory birds that fall out of the sky ](https://www.sciencenews.org/blog/wild-things/tiger-sharks-feast-migratory-birds-fall-out-sky) ScienceDaily
+
+
+[How a Bunch of Songbirds Ended Up Inside the Stomachs of Sharks](https://www.theatlantic.com/science/archive/2019/05/how-songbirds-ended-inside-stomachs-sharks/589909/) The Atlantic 
