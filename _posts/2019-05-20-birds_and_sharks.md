@@ -56,3 +56,5 @@ Mirror
 
 [Study finds link between backyard birds and tiger sharks](http://masgc.org/news/article/study-finds-link-between-backyard-birds-and-tiger-sharks) MS/AL Seagrant
 
+[Exhausted Birds Become Lunch Meat for Tiger Sharks in the Gulf of Mexico](https://www.audubon.org/news/exhausted-birds-become-lunch-meat-tiger-sharks-gulf-mexico) Audubon
+
