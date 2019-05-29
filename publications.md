@@ -21,6 +21,8 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A,
 
 **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *Unpaid work and access to science professions* **PlosOne** (In Press)
 
+Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations* **Biological Invasions** (In Press)
+
 
 2018
 
@@ -72,7 +74,7 @@ Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS 
 
 Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
 
-Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations*
+
 
 
 ### Reports 
