@@ -17,6 +17,8 @@ The exact mechanism of why this is happening needs further study, but a variety 
 
 [Tiger sharks feast on migratory birds that fall out of the sky ](https://www.sciencenews.org/blog/wild-things/tiger-sharks-feast-migratory-birds-fall-out-sky) ScienceDaily
 
+[Forget seabirds. Baby tiger sharks feast on songbirds in the Gulf of Mexico](https://www.sciencemag.org/news/2019/05/forget-seabirds-baby-tiger-sharks-feast-songbirds-gulf-mexico) Science
+
 [How a Bunch of Songbirds Ended Up Inside the Stomachs of Sharks](https://www.theatlantic.com/science/archive/2019/05/how-songbirds-ended-inside-stomachs-sharks/589909/) The Atlantic 
 
 [Giant tiger sharks eat backyard birds, surprising study reveals](https://www.nationalgeographic.com/animals/2019/05/baby-tiger-sharks-eat-songbirds/) National Geographic
