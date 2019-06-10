@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm the Directof of [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) and an Assistant Research Scientist, Waterfowl/Wetland Bird Ecologist with the Illinois Natural History Survey
+I'm the Director of [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) and an Assistant Research Scientist, Waterfowl/Wetland Bird Ecologist with the Illinois Natural History Survey
 
 <img align="right" src="https://avatars1.githubusercontent.com/u/7707957?s=400&u=728d2eaf013d4d79ddd6104c46afda2ab19bcdca&v=4">
 
