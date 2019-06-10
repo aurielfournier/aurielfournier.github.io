@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm currently a Postdoctoral Research Assistant at Mississippi State University working on Structured Decision Making tools to support the [Gulf of Mexico Avian Monitoring Network](https://gomamn.org/), where I am supervised by Drs. Jim Lyons and Mark Woodrey. 
-
-**In June 2019 I'll be joining the staff at the [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) as their Director.**
+I'm the Directof of [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) and an Assistant Research Scientist, Waterfowl/Wetland Bird Ecologist with the Illinois Natural History Survey
 
 <img align="right" src="https://avatars1.githubusercontent.com/u/7707957?s=400&u=728d2eaf013d4d79ddd6104c46afda2ab19bcdca&v=4">
 
@@ -24,7 +22,7 @@ As a **collaborator**, I believe in transparent reproducible science but even mo
 
 As a passionate advocate for a **more diverse scientific community** I am always interested in studying the impacts of our assumptions in the scientific career path. Currently this focuses on the impacts of unpaid labor. 
 
-Feel free to contact me with any questions at aurielfournier@gmail.com, or on twitter @RallidaeRule  
+Feel free to contact me with any questions at auriel@illinois.edu, or on twitter @RallidaeRule  
 
 
 
