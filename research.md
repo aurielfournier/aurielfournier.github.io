@@ -14,7 +14,7 @@ permalink: /research/
 [Unpaid Labor in STEM](#unpaid)
 
 
-I am a scientist who reaches across the boundary of quantitative and field ecology to answer robust and innovative scientific questions and provide valuable data to support on the ground conservation. Currently I am working as apart of the Gulf of Mexico Avian Monitoring Network [gomamn.org](https://gomamn.org/) using structured decision makin to support decision making behind bird conservation priorities.  
+I am a scientist who reaches across the boundary of quantitative and field ecology to answer robust and innovative scientific questions and provide valuable data to support on the ground conservation. Currently I am working as apart of the Gulf of Mexico Avian Monitoring Network [gomamn.org](https://gomamn.org/) using structured decision making to support decision making behind bird conservation priorities.  
 
 Secretive marsh birds provide a great system to ask a variety of natural history, basic science and applied questions as well as an opportunity to bridge the gap between consumptive and non consumptive wildlife enthusiasts and unite them behind wetland conservation and management actions, especially in the face of climate change. My research has frequently employed large scale collaboratively generated data sets, either from field projects, or museums, which allow us to ask more robust questions about a species then I could answer on my own.
 
@@ -26,9 +26,9 @@ In addition, we need a diverse workforce studying and managing that environment 
 
 My postdoc work, with the [Gulf of Mexico Avian Monitoring Network](gomamn.org) seeks to set priorities for bird monitoring in the Gulf of Mexico by using a Structured Decision Making framework. 
 
-We are doing this in two ways, first through the construction of a decision support tool that a funding decision maker can use to compare proposals by quanitatively scoring them based on the values of the bird conservation community, and then optimize given their own constraints (USGS Open File Report and paper In Prep)
+We are doing this in two ways, first through the construction of a decision support tool that a funding decision maker can use to compare proposals by quantitatively scoring them based on the values of the bird conservation community, and then optimize given their own constraints (USGS Open File Report and paper In Prep)
 
-Second, we are using these values, explictily defined, to set avian monitoring priorities across seven taxonomic groups of birds for the next 5 years. We are setting priorities for Status and Trends, Management Actions and Ecological Processes. This plan will be available in late 2018, and will be updated every 5 years. A case study of this process is in preperation. 
+Second, we are using these values, explicitly defined, to set avian monitoring priorities across seven taxonomic groups of birds for the next 5 years. We are setting priorities for Status and Trends, Management Actions and Ecological Processes. This plan will be available in late 2018, and will be updated every 5 years. A case study of this process is in preparation. 
 
 ### Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails in Intensively Managed Wetland Complexes in Missouri   
 > (Funded by US Fish and Wildlife Service and Missouri Department of Conservation)
@@ -74,4 +74,4 @@ Current work seeks to further examine questions about Virginia Rail migration by
 Many advertised field-technician positions sound worthwhile, but have no or very low pay. Although these can be valuable experiences, not paying technicians for their work undermines their professionalism and the professionalism of science as a whole. These unpaid technician positions are available to only the privileged few; and the positions exclude minorities, parents, and other groups who cannot afford to work unpaid. By creating such positions, we prevent everyone, regardless of background, from having a chance to get the field experience they need, and this limits the diversity of voices in wildlife ecology and conservation. We recognize finances are often tight, and there is a long tradition of unpaid work, but these are not valid rationalizations for continuing this practice. 
 
 
-To further examine these ideas I am working with Dr. Alex Bond and two economists in the United Kingdom to examine our assumptions about unpaid work in the sciences, including who takes unpaid work, and how it influences their career. We hope to provide the evidence for further discussion of the role of unpaid work in science and any influence it might have on reinforcing other structure of priveledge and exclusion which also exist along a career path into the sciences. 
+To further examine these ideas I am working with Dr. Alex Bond and two economists in the United Kingdom to examine our assumptions about unpaid work in the sciences, including who takes unpaid work, and how it influences their career. We hope to provide the evidence for further discussion of the role of unpaid work in science and any influence it might have on reinforcing other structure of privilege and exclusion which also exist along a career path into the sciences. 
