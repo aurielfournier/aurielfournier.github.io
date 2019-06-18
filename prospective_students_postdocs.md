@@ -10,4 +10,6 @@ At Forbes and amongst those who work with me, how we science, and treat teach ot
 
 Given my interests in the application of decision science to natural resources problems I am not interested in only wetland and bird related questions. 
 
-While I do not currently have any funding for students postdocs, I am happy to collaborate on proposals for funding with interested candidates. Please send me an email (auriel@illinois.edu) expressing your interest along with your CV.
+[T.J. Benson] and I are hiring a Master's student to work on wetland birds in Illinois. More details [Here](http://aurielfournier.github.io/ms-student-ad/)
+
+While I do not currently have any funding for postdocs, I am happy to collaborate on proposals for funding with interested candidates. Please send me an email (auriel@illinois.edu) expressing your interest along with your CV.
