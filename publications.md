@@ -19,7 +19,8 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A,
 
 **Fournier, AMV**, White, ER, Heard, SB. [*Site-selection bias can drive apparent population declines in long-term studies* ](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Conservation_Biology.pdf) [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/) **Conservation Biology** 10.1111/cobi.13371
 
-**Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *Unpaid work and access to science professions* **PlosOne** (In Press)
+**Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. [*Unpaid work and access to science professions*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_PlosOne.pdf) **PLoS ONE** 14(6): e0217032.
+10.1371/journal.pone.0217032
 
 Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations* **Biological Invasions** (In Press)
 
