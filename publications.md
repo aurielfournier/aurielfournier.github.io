@@ -11,7 +11,7 @@ permalink: /publications/
 2019   
 
 
-**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundation* **Waterbirds** 42:168-178
+**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. [*Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundation*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Waterbirds.pdf) **Waterbirds** 42:168-178
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier_2019_Ecology.pdf) **Ecology** 10.1002/ecy.2728
 
