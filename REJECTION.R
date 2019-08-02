@@ -81,7 +81,7 @@ a <- ggplot(data=datdat,
                     name="Rejected?")
 
 
-ggsave(a, file="~/aurielfournier.github.io/images/grants.jpeg", width=20, height=15, units="cm", dpi=300)
+ggsave(a, file="./images/grants.jpeg", width=20, height=15, units="cm", dpi=300)
 
 
 
@@ -119,7 +119,7 @@ a <- ggplot(data=datdat,
   xlab("Was interviewed?")
 
 
-ggsave(a, file="aurielfournier.github.io/images/postdoc_jobs.jpeg", width=20, height=15, units="cm", dpi=300)
+ggsave(a, file="./images/postdoc_jobs.jpeg", width=20, height=15, units="cm", dpi=300)
 
 dat <- gs_title("job_search_INHS_director")
 
@@ -137,7 +137,7 @@ a <- ggplot(data=datdat,
                     name="Received offer?")+
   xlab("Was interviewed?")
 
-ggsave(a, file="aurielfournier.github.io/images/INHS_jobs.jpeg", width=20, height=15, units="cm", dpi=300)
+ggsave(a, file="./images/INHS_jobs.jpeg", width=20, height=15, units="cm", dpi=300)
 
 dat <- gs_title("job_search_INHS_director")
 
@@ -153,7 +153,7 @@ a <- ggplot(data=datdat,
   theme(legend.position = "none")
 
 
-ggsave(a, file="aurielfournier.github.io/images/INHS_jobs_types.jpeg", width=20, height=15, units="cm", dpi=300)
+ggsave(a, file="./images/INHS_jobs_types.jpeg", width=20, height=15, units="cm", dpi=300)
 
 
 dat <- gs_title("job_search_INHS_director")
