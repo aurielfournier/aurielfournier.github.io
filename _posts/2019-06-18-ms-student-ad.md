@@ -4,7 +4,7 @@ title: Hiring Master's Student Wetland Birds in Illinois
 comments: false
 ---
 
-** THIS POSITION IS NOW CLOSED** 
+**THIS POSITION IS NOW CLOSED** 
 
 Location: University of Illinois at Urbana-Champaign
 Salary: Approximately $24,000 per year, plus tuition waiver and health benefits
