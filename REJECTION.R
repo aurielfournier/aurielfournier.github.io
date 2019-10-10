@@ -35,7 +35,7 @@ m_by_desk <- ggplot(data=datdat,
   xlab("Months from first submission 
        \n to acceptance")+
   ylab("Desk Rejects")+
-  theme(legend.position=c(0.7,0.8),
+  theme(legend.position=c(0.6,0.8),
         legend.background = element_rect(colour = 'black', 
                                   fill = 'white', linetype='solid'))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"))+
