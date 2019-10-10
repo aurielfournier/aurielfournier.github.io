@@ -12,7 +12,7 @@ library(rel)
 dat <- gs_title("data_on_my_papers")
 
 datdat <- gs_read(dat) %>%
-  mutate(published_yet = ifelse(is.na(month_accepted),"no","yes"))
+  mutate(published_yet = ifelse(is.na(month_accepted),"In Review","Published"))
 
 m_by_rejects <- ggplot(data=datdat, 
        aes(x=months_betwee, y=rejects, 
@@ -24,7 +24,7 @@ m_by_rejects <- ggplot(data=datdat,
   theme(legend.position="non",
         legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"),
-                     name="Published \nyet?")+
+                     name="Paper Status")+
   scale_x_continuous(breaks=c(0,12,24,36))
 
 m_by_desk <- ggplot(data=datdat, 
@@ -40,8 +40,8 @@ m_by_desk <- ggplot(data=datdat,
                                   fill = 'white', linetype='solid'))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"))+
   scale_x_continuous(breaks=c(0,12,24,36))+
-  guides(color=guide_legend(ncol=1, title="Published \nYet?"),
-         shape=guide_legend(ncol=1, title="Published \nYet?"))
+  guides(color=guide_legend(ncol=1, title="Paper Status"),
+         shape=guide_legend(ncol=1, title="Paper Status"))
   
 
 rejects_hist <- ggplot(data=datdat,
