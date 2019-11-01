@@ -15,9 +15,9 @@ permalink: /publications/
 10.1371/journal.pone.0217032
 
 
-Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier_2019_Ecology.pdf) **Ecology** 10.1002/ecy.2728
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier_2019_Ecology.pdf) **Ecology** 100:e02728 10.1002/ecy.2728
 
-Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: Reply*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier-2019-Ecology_Reply.pdf) **Ecology** 10.1002/ecy.2870
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: Reply*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier-2019-Ecology_Reply.pdf) **Ecology** 100:e02870 10.1002/ecy.2870
 
 **Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  [*Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Herpetological_Review.pdf) **Herpetological Review** 50:338
 
