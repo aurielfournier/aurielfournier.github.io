@@ -49,7 +49,8 @@ rejects_hist <- ggplot(data=datdat,
        aes(x=rejects))+
   geom_histogram()+
   annotate("text", label=paste0("Last Updated ", Sys.Date()), 
-           x=3, y=6)
+           x=3, y=8)+
+  scale_x_continuous(breaks=0:6)
   
 desk_hist <- ggplot(data=datdat,
        aes(x=desk_rejects))+
@@ -57,7 +58,7 @@ desk_hist <- ggplot(data=datdat,
 
 
 a <- plot_grid(m_by_rejects, m_by_desk,
-          rejects_hist, desk_hist, nrow=2)
+          rejects_hist, desk_hist, nrow=2, align="hv")
 
 
 ggsave(a, file="./images/papers.jpeg", width=20, height=15, units="cm", dpi=300)
