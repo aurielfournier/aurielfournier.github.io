@@ -16,4 +16,4 @@ During my PhD I coordinated monthly bird banding programs at Hobbs State Park, "
 
 [![Birds and Breakfast](http://i.imgur.com/XYDOuCB.png)](https://www.youtube.com/watch?v=EJfGp58vngw "Birds and Breakfast")
 
-Looking for an enthusiastic scientist to speak to your class, group or organization about ecology, birds, science or science careers? Just let me know (aurielfournier@gmail.com). If you’re near me I’ll come to you, or we can try to set up something over Skype!
+Looking for an enthusiastic scientist to speak to your class, group or organization about ecology, birds, science or science careers? Just let me know (auriel@illinois.edu). If you’re near me I’ll come to you, or we can try to set up something over Skype!
