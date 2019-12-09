@@ -108,10 +108,7 @@ Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integr
 
 Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, Stack Whitney, K 2019 [*Open Science Isn't Always Open To All Scientists*](https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists) The American Scientist. 
 
-## Book Review
 
-2019
-**Fournier, AMV** [*A Season on the Wind: Inside the World of Spring Migration *Journal of Field Ornithology*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_2019_Book_Review.pdf) **Journal of Field Ornithology** 90:391-392 10.1111/jofo.12317 
 
 
 ### My project has been highlighted in several blog posts and podcasts
