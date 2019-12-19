@@ -1,0 +1,38 @@
+---
+layout: post
+title: 2019 by the numbers
+comments: true
+---
+
+2019 has been a year of big changes, big challenges, big oppurtunities and big growth. The whole human and dog family moved to Illinois with me in June, and I've made it 6 months in the new job now, and I love it. The team here at Forbes Biological Station is fantastic, I'm learning a ton, getting new projects started, and learning how to be a good Director/supervisor/support to the rest of the team here. 
+
+![](https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/collage.jpg)
+
+## Lists of things
+
+**Visited Alaska for the first time** (states still needed: South Dakota)
+
+## Top moments
+
+Landing my [dream job](http://aurielfournier.github.io/new-job/).  
+
+Continued to learn to say 'No'. 
+
+Being awarded my first [big grant](http://aurielfournier.github.io/noaa-firebird-announcement/).
+
+Winning the battle against the rats in my house in Mississippi.
+
+Time with great colleagues at meetings and conferences
+
+Visiting Alaska for the first time
+
+## Low Points
+
+Leaving behind our amazing community in Mississippi.
+
+Moving (it is the worst). 
+
+The loneliness that comes from moving to a new state and not yet having formed a group of friends. 
+
+Struggling with major imposter syndrome, depression and burn out.
+
