@@ -7,7 +7,7 @@ library(maptools)
 library(tidyr)
 library(dplyr)
 library(grid)
-library(rel)
+library(auriel)
 
 dat <- gs_title("data_on_my_papers")
 
@@ -25,7 +25,8 @@ m_by_rejects <- ggplot(data=datdat,
         legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"),
                      name="Paper Status")+
-  scale_x_continuous(breaks=c(0,12,24,36))
+  scale_x_continuous(breaks=c(0,12,24,36))+
+    theme_fournier()
 
 m_by_desk <- ggplot(data=datdat, 
        aes(x=months_betwee, y=desk_rejects, 
@@ -41,7 +42,8 @@ m_by_desk <- ggplot(data=datdat,
   scale_color_manual(values=c("#1f78b4","#b2df8a"))+
   scale_x_continuous(breaks=c(0,12,24,36))+
   guides(color=guide_legend(ncol=1, title="Paper Status"),
-         shape=guide_legend(ncol=1, title="Paper Status"))
+         shape=guide_legend(ncol=1, title="Paper Status"))+
+  theme_fournier()
   
 
 rejects_hist <- ggplot(data=datdat,
@@ -50,11 +52,13 @@ rejects_hist <- ggplot(data=datdat,
   geom_histogram()+
   annotate("text", label=paste0("Last Updated ", Sys.Date()), 
            x=3, y=8)+
-  scale_x_continuous(breaks=0:6)
+  scale_x_continuous(breaks=0:6)+
+  theme_fournier()
   
 desk_hist <- ggplot(data=datdat,
        aes(x=desk_rejects))+
-  geom_histogram()
+  geom_histogram()+
+  theme_fournier()
 
 
 a <- plot_grid(m_by_rejects, m_by_desk,
