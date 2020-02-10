@@ -22,7 +22,8 @@ m_by_rejects <- ggplot(data=datdat,
   xlab("Months from first submission 
        \n to acceptance")+
   theme(legend.position="non",
-        legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'))+
+        legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'),
+        axis.title.x=element_text(size=10))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"),
                      name="Paper Status")+
   scale_x_continuous(breaks=c(0,12,24,36))+
@@ -39,7 +40,8 @@ m_by_desk <- ggplot(data=datdat,
   theme(legend.position=c(0.7,0.8),
         legend.background = element_rect(colour = 'black', 
                                   fill = 'white', linetype='solid'),
-        legend.title = element_text())+
+        legend.title = element_text(),
+        axis.title.x=element_text(size=10))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"),)+
   scale_x_continuous(breaks=c(0,12,24,36))+
   guides(color=guide_legend(ncol=1, title="Paper Status"),
@@ -54,12 +56,17 @@ rejects_hist <- ggplot(data=datdat,
   annotate("text", label=paste0("Last Updated ", Sys.Date()), 
            x=3, y=8)+
   scale_x_continuous(breaks=0:6)+
-  theme_fournier()
+  theme(axis.title.x=element_text(size=10))
+  theme_fournier()+
+  xlab("Rejections")
   
 desk_hist <- ggplot(data=datdat,
        aes(x=desk_rejects))+
   geom_histogram()+
-  theme_fournier()
+  theme(axis.title.x=element_text(size=10))
+  theme_fournier()+
+  xlab("Desk rejections \n
+       (rejection without review by editor)")
 
 
 a <- plot_grid(m_by_rejects, m_by_desk,
