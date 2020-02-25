@@ -19,8 +19,7 @@ m_by_rejects <- ggplot(data=datdat,
            group=published_yet))+
   geom_point(size=2, aes(color=published_yet, shape=published_yet))+
   ylim(0,6)+
-  xlab("Months from first submission 
-       \n to acceptance")+
+  xlab("Months from first submission")+
   theme(legend.position="non",
         legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'),
         axis.title.x=element_text(size=10))+
@@ -34,8 +33,7 @@ m_by_desk <- ggplot(data=datdat,
            group=published_yet))+
   geom_point(size=2, aes(color=published_yet, shape=published_yet))+
   ylim(0,6)+
-  xlab("Months from first submission 
-       \n to acceptance")+
+  xlab("Months from first submission")+
   ylab("Desk Rejects")+
   theme(legend.position=c(0.7,0.8),
         legend.background = element_rect(colour = 'black', 
@@ -56,14 +54,14 @@ rejects_hist <- ggplot(data=datdat,
   annotate("text", label=paste0("Last Updated ", Sys.Date()), 
            x=3, y=8)+
   scale_x_continuous(breaks=0:6)+
-  theme(axis.title.x=element_text(size=10))
+  theme(axis.title.x=element_text(size=10))+
   theme_fournier()+
   xlab("Rejections")
   
 desk_hist <- ggplot(data=datdat,
        aes(x=desk_rejects))+
   geom_histogram()+
-  theme(axis.title.x=element_text(size=10))
+  theme(axis.title.x=element_text(size=10))+
   theme_fournier()+
   xlab("Desk rejections \n
        (rejection without review by editor)")
