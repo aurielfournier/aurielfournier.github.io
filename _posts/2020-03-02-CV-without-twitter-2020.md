@@ -245,9 +245,6 @@ Adams, EM, **Fournier, AMV**, Woodrey, MS. 2019. *Integration and collaboration 
 ~~**Seminar** University of Florida~~    
 **Keynote** Oklahoma Ornithological Society Spring Meeting  
 ~~**Seminar** Wayne State University~~    
-
-> Met Anna via Twitter
-
 **Symposium Talk** American Ornithological Society  
 **Seminar** Louisiana State University  
 **Seminar** Mississippi State University  
