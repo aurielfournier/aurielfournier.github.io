@@ -4,6 +4,15 @@ title: My C.V. Without Twitter - 2020 Edition
 comments: true
 ---
 
+This is an update to a [previous post](http://aurielfournier.github.io/cv-without-twitter/). Folks who see twitter as something full of cat videos and the president’s latest thoughts often laugh when I tell them that twitter has been incredibly valuable to me, starting as a grad student, and now as a professional scientist. 
+
+To make this point a bit more clear I thought I would show what wouldn’t be on my CV without twitter. Anything crossed out wouldn't have existed, because I met one or more key people via twitter. That isn't to say that I couldn't have met some of those folks through more 'traditional' means, but for some, who live on other continents, it seems much less likely. 
+
+My postdoc position is crossed out, becuase I know that my publication record as a finishing up PhD student was a big part of why I got that position, and that publication record was greatly aided by my papers with twitter colleagues. 
+
+Some things are hard to know whether or not to 'count' for twitter, as things snowball, so I've tried to be more conservative and not cross things off if I wasn't sure. 
+
+
 
 Auriel M.V. Fournier
 =============================
