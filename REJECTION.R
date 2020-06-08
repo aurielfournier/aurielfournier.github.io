@@ -25,7 +25,7 @@ m_by_rejects <- ggplot(data=datdat,
         axis.title.x=element_text(size=10))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"),
                      name="Paper Status")+
-  scale_x_continuous(breaks=c(0,12,24,36))+
+  scale_x_continuous(breaks=c(0,12,24,36,48))+
     theme_fournier()
 
 m_by_desk <- ggplot(data=datdat, 
@@ -41,7 +41,7 @@ m_by_desk <- ggplot(data=datdat,
         legend.title = element_text(),
         axis.title.x=element_text(size=10))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"),)+
-  scale_x_continuous(breaks=c(0,12,24,36))+
+  scale_x_continuous(breaks=c(0,12,24,36,48))+
   guides(color=guide_legend(ncol=1, title="Paper Status"),
          shape=guide_legend(ncol=1, title="Paper Status"))+
   theme_fournier()
@@ -54,15 +54,19 @@ rejects_hist <- ggplot(data=datdat,
   annotate("text", label=paste0("Last Updated ", Sys.Date()), 
            x=3, y=8)+
   scale_x_continuous(breaks=0:6)+
+  scale_y_continuous(breaks=seq(0,10, by=2))+
   theme(axis.title.x=element_text(size=10))+
   theme_fournier()+
+  ylab("Number of Papers")+
   xlab("Rejections")
   
 desk_hist <- ggplot(data=datdat,
        aes(x=desk_rejects))+
   geom_histogram()+
   theme(axis.title.x=element_text(size=10))+
+  scale_y_continuous(breaks=seq(0,15, by=3))+
   theme_fournier()+
+  ylab("Number of Papers")+
   xlab("Desk rejections \n
        (rejection without review by editor)")
 
