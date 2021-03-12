@@ -3,6 +3,9 @@ layout: post
 title: Hiring PhD Student Gulf of Mexico Wetlands, Birds, Prescribed Fire
 comments: false
 ---
+
+*This position is now closed*
+
 PhD Research Assistantship: Applied Conservation and Management
 Illinois Natural History Survey
 Prairie Research Institute
