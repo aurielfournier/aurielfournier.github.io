@@ -1,4 +1,4 @@
-library(googlesheets)
+library(googlesheets4)
 library(ggplot2)
 library(cowplot)
 library(RColorBrewer)
@@ -9,14 +9,14 @@ library(dplyr)
 library(grid)
 library(auriel)
 
-dat <- gs_title("data_on_my_papers")
+gs4_deauth()
 
-datdat <- gs_read(dat) %>%
-  mutate(published_yet = ifelse(is.na(month_accepted),"In Review","Published"))
 
-m_by_rejects <- ggplot(data=datdat, 
-       aes(x=months_betwee, y=rejects, 
-           group=published_yet))+
+dat <- read_sheet("https://docs.google.com/spreadsheets/d/1HyhVgsRINRbu6vRYJJzSe7omQOK_41jtqyZmvv_iXjE/edit?usp=sharing")
+
+m_by_rejects <- ggplot(data=dat, 
+                       aes(x=months_between, y=rejects, 
+                           group=published_yet))+
   geom_point(size=2, aes(color=published_yet, shape=published_yet))+
   ylim(0,6)+
   xlab("Months from first submission")+
@@ -26,18 +26,18 @@ m_by_rejects <- ggplot(data=datdat,
   scale_color_manual(values=c("#1f78b4","#b2df8a"),
                      name="Paper Status")+
   scale_x_continuous(breaks=c(0,12,24,36,48))+
-    theme_fournier()
+  theme_fournier()
 
-m_by_desk <- ggplot(data=datdat, 
-       aes(x=months_betwee, y=desk_rejects, 
-           group=published_yet))+
+m_by_desk <- ggplot(data=dat, 
+                    aes(x=months_between, y=desk_rejects, 
+                        group=published_yet))+
   geom_point(size=2, aes(color=published_yet, shape=published_yet))+
   ylim(0,6)+
   xlab("Months from first submission")+
   ylab("Desk Rejects")+
   theme(legend.position=c(0.7,0.8),
         legend.background = element_rect(colour = 'black', 
-                                  fill = 'white', linetype='solid'),
+                                         fill = 'white', linetype='solid'),
         legend.title = element_text(),
         axis.title.x=element_text(size=10))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"),)+
@@ -45,11 +45,11 @@ m_by_desk <- ggplot(data=datdat,
   guides(color=guide_legend(ncol=1, title="Paper Status"),
          shape=guide_legend(ncol=1, title="Paper Status"))+
   theme_fournier()
-  
 
-rejects_hist <- ggplot(data=datdat,
+
+rejects_hist <- ggplot(data=dat,
                        
-       aes(x=rejects))+
+                       aes(x=rejects))+
   geom_histogram()+
   annotate("text", label=paste0("Last Updated ", Sys.Date()), 
            x=3, y=8)+
@@ -59,9 +59,9 @@ rejects_hist <- ggplot(data=datdat,
   theme_fournier()+
   ylab("Number of Papers")+
   xlab("Rejections")
-  
-desk_hist <- ggplot(data=datdat,
-       aes(x=desk_rejects))+
+
+desk_hist <- ggplot(data=dat,
+                    aes(x=desk_rejects))+
   geom_histogram()+
   theme(axis.title.x=element_text(size=10))+
   scale_y_continuous(breaks=seq(0,15, by=3))+
@@ -72,10 +72,11 @@ desk_hist <- ggplot(data=datdat,
 
 
 a <- plot_grid(m_by_rejects, m_by_desk,
-          rejects_hist, desk_hist, nrow=2, align="hv")
+               rejects_hist, desk_hist, nrow=2, align="hv")
 
 
-ggsave(a, file="./images/papers.jpeg", width=20, height=15, units="cm", dpi=300)
+ggsave(a, file="papers.jpeg", width=20, height=15, units="cm", dpi=300)
+
 
 
 
