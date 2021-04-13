@@ -82,9 +82,15 @@ ggsave(a, file="papers.jpeg", width=20, height=15, units="cm", dpi=300)
 
 ## Grants
 
-dat <- gs_title("data_on_grants")
 
-datdat <- gs_read(dat) %>%
+gs4_deauth()
+
+
+dat <- read_sheet("https://docs.google.com/spreadsheets/d/1MnEXtnXcgntgvLBmL_VNV1oRK0LTjvG0hmZzdUBu_vs/edit?usp=sharing")
+
+
+
+datdat <- dat %>%
   mutate(year=factor(year)) %>%
   group_by(year, rejected_y_n) %>%
   summarize(count=n())
