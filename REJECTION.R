@@ -35,7 +35,7 @@ m_by_desk <- ggplot(data=dat,
   ylim(0,6)+
   xlab("Months from first submission")+
   ylab("Desk Rejects")+
-  theme(legend.position=c(0.7,0.8),
+  theme(legend.position=c(0.75,0.8),
         legend.background = element_rect(colour = 'black', 
                                          fill = 'white', linetype='solid'),
         legend.title = element_text(),
@@ -78,7 +78,7 @@ a <- plot_grid(m_by_rejects, m_by_desk,
                rejects_hist, desk_hist, nrow=2, align="hv")
 
 
-ggsave(a, file="papers.jpeg", width=20, height=15, units="cm", dpi=300)
+ggsave(a, file="./images/papers.jpeg", width=20, height=15, units="cm", dpi=300)
 
 
 # 
