@@ -71,11 +71,71 @@ desk_hist <- ggplot(data=dat,
        (rejection without review by editor)")
 
 
+
+
+
 a <- plot_grid(m_by_rejects, m_by_desk,
                rejects_hist, desk_hist, nrow=2, align="hv")
 
 
 ggsave(a, file="papers.jpeg", width=20, height=15, units="cm", dpi=300)
+
+
+
+
+sumdat <- dat %>%
+  group_by(year_submitted_first_time, published_yet) %>%
+  summarize(total = sum(desk_rejects,na.rm=TRUE))
+
+desk<-ggplot(data=sumdat, 
+       aes(x=year_submitted_first_time, y=total, color=published_yet))+
+  geom_jitter(size=3)+
+  ylab("desk rejects")+
+  theme_fournier()+
+  scale_color_manual(values=c("#1f78b4","#b2df8a"),)
+
+sumdat <- dat %>%
+  group_by(year_submitted_first_time, published_yet) %>%
+  summarize(total = sum(review_rejects,na.rm=TRUE))
+
+review<-ggplot(data=sumdat, 
+       aes(x=year_submitted_first_time, y=total, color=published_yet))+
+  geom_jitter(size=3)+
+  ylab("review rejects")+
+  theme_fournier()+
+  scale_color_manual(values=c("#1f78b4","#b2df8a"),)
+
+sumdat <- dat %>%
+  group_by(year_submitted_first_time, published_yet) %>%
+  summarize(total = sum(rejects,na.rm=TRUE))
+
+all<- ggplot(data=sumdat, 
+       aes(x=year_submitted_first_time, y=total, color=published_yet))+
+  geom_jitter(size=3)+
+  ylab("all rejects")+
+  theme_fournier()+
+  scale_color_manual(values=c("#1f78b4","#b2df8a"),)
+
+a <- plot_grid(desk, review, all, nrow=3, align="hv")
+
+
+ggsave(a, file="./images/papers_over_time.jpeg", width=15, height=30, units="cm", dpi=300)
+
+
+
+
+desk<-ggplot(data=dat, 
+             aes(x=year_submitted_first_time, y=months_between, color=published_yet))+
+  geom_jitter(size=3)+
+  ylab("Months from first sub to publication")+
+  theme_fournier()+
+  scale_color_manual(values=c("#1f78b4","#b2df8a"),)
+
+
+
+
+ggsave(desk, file="./images/pubtime_over_time.jpeg", width=15, height=15, units="cm", dpi=300)
+
 
 
 
