@@ -133,8 +133,7 @@ desk<-ggplot(data=dat,
   xlab("Year first submitted")+
   theme(legend.position = c(0.2,0.8))+
   guides(color=guide_legend(ncol=1, title="Paper Status"),
-         shape=guide_legend(ncol=1, title="Paper Status"))+
-  theme_fournier()
+         shape=guide_legend(ncol=1, title="Paper Status"))
 
 
 
@@ -165,7 +164,8 @@ a <- ggplot(data=datdat,
   geom_bar( stat="identity", color="black",
            position = position_dodge2(width = 0.9, preserve = "single"))+
   scale_fill_manual(values=c("#1f78b4","#1b9e77","#b2df8a"),
-                    name="Rejected?")
+                    name="Rejected?")+
+  theme_fournier()
 
 
 ggsave(a, file="./images/grants.jpeg", width=20, height=15, units="cm", dpi=300)
