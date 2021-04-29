@@ -19,6 +19,12 @@ Image Description -Four panel figure, Upper left, scatterplot of months on x axi
   
  [Tabular data included in the graph](https://docs.google.com/spreadsheets/d/1HyhVgsRINRbu6vRYJJzSe7omQOK_41jtqyZmvv_iXjE/edit?usp=sharing) 
 
+
+It doesn't appear that things are changing much over time, with time being the year a paper was first submitted. Some papers find a home pretty quickly, others take (or are taking right now) a very long time. 
+
+<img alt="" src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/pubtime_over_time.jpeg">
+
+
 ## Grants
 
 <img   alt=""  src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/grants.jpeg">
