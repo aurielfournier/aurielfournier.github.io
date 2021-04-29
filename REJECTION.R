@@ -133,7 +133,8 @@ desk<-ggplot(data=dat,
   xlab("Year first submitted")+
   theme(legend.position = c(0.2,0.8))+
   guides(color=guide_legend(ncol=1, title="Paper Status"),
-         shape=guide_legend(ncol=1, title="Paper Status"))
+         shape=guide_legend(ncol=1, title="Paper Status"))+
+  theme_fournier()
 
 
 
