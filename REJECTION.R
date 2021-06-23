@@ -25,7 +25,7 @@ m_by_rejects <- ggplot(data=dat,
         axis.title.x=element_text(size=10))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"),
                      name="Paper Status")+
-  scale_x_continuous(breaks=c(0,12,24,36,48))+
+  scale_x_continuous(breaks=c(0,12,24,36,48,60))+
   theme_fournier()
 
 m_by_desk <- ggplot(data=dat, 
@@ -41,7 +41,7 @@ m_by_desk <- ggplot(data=dat,
         legend.title = element_text(),
         axis.title.x=element_text(size=10))+
   scale_color_manual(values=c("#1f78b4","#b2df8a"),)+
-  scale_x_continuous(breaks=c(0,12,24,36,48))+
+  scale_x_continuous(breaks=c(0,12,24,36,48,60))+
   guides(color=guide_legend(ncol=1, title="Paper Status"),
          shape=guide_legend(ncol=1, title="Paper Status"))+
   theme_fournier()
@@ -54,7 +54,7 @@ rejects_hist <- ggplot(data=dat,
   annotate("text", label=paste0("Last Updated ", Sys.Date()), 
            x=3, y=8)+
   scale_x_continuous(breaks=0:6)+
-  scale_y_continuous(breaks=seq(0,10, by=2))+
+  scale_y_continuous(breaks=seq(0,14, by=2))+
   theme(axis.title.x=element_text(size=10))+
   theme_fournier()+
   ylab("Number of Papers")+
