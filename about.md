@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm the Director of [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) and an Assistant Research Scientist, Wetland Bird Ecologist with the Illinois Natural History Survey.
 
-<img align="right" src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/DSC_3934.jpg" width="441" height="677">
+<img align="right" src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/DSC_3871%20under100kb.jpg" width="441" height="677">
 
 I'm an **applied conservation ecologist**, which basically means that I do scientific work to solve a problem or answer a question that comes from the natural resource management community. Usually, that involves at least two of three things: birds, wetlands or decision making.
 
