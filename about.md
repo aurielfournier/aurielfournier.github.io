@@ -23,13 +23,15 @@ As a passionate advocate for a **more diverse scientific community** I am always
 Feel free to contact me with any questions at auriel@illinois.edu, or on twitter @RallidaeRule  
 
 
+### Short Bio
+
+Auriel Fournier is the Director of the Forbes Biological Station, a part of the Illinois Natural History Survey, University of Illinois Urbana-Champaign. Auriel is a quantitative wetland ecologist and ornithologist who completed her PhD studying the fall migration ecology of rails with the Arkansas Cooperative Fish and Wildlife Research Unit at the University of Arkansas in 2017. She then joined the Gulf of Mexico Avian Monitoring Network as a postdoc, working at Mississippi State University on using structured decision making to better integrate bird monitoring. Her research focuses on how we can better manage our wetlands for a wide suite of wetland birds and is often focused on rails and other secretive marshbirds. 
+
 
 ### Other Places to find me
 
 [@RallidaeRule](twitter.com/rallidaerule) |
 [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) |
 [Github](https://github.com/aurielfournier) |
-[ImpactStory](https://impactstory.org/u/0000-0002-8530-9968) | 
 [ORCID](http://orcid.org/0000-0002-8530-9968) |
-[Research Gate](http://www.researchgate.net/profile/Auriel_Fournier) |
 
