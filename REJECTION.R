@@ -12,7 +12,8 @@ library(auriel)
 gs4_deauth()
 
 
-dat <- read_sheet("https://docs.google.com/spreadsheets/d/1HyhVgsRINRbu6vRYJJzSe7omQOK_41jtqyZmvv_iXjE/edit?usp=sharing")
+dat <- read_sheet("https://docs.google.com/spreadsheets/d/1HyhVgsRINRbu6vRYJJzSe7omQOK_41jtqyZmvv_iXjE/edit?usp=sharing") %>%
+  filter(published_yet!="NA") 
 
 m_by_rejects <- ggplot(data=dat, 
                        aes(x=months_between, y=rejects, 
@@ -187,88 +188,88 @@ ggsave(a, file="./images/grants.jpeg", width=20, height=15, units="cm", dpi=300)
 
 
 
-
-
-## JOBS
-
-
-dat <- gs_title("data_on_job_MSU_result")
-
-datdat <- gs_read(dat) %>%
-        group_by(offer, interview) %>%
-        summarize(count =n())
-
-a <- ggplot(data=datdat, 
-  aes(x=interview, y=count, fill=offer, group=offer))+
-  geom_bar(position="dodge", stat="identity")+
-  scale_fill_manual(values=c("#7570b3","#d95f02"),
-                    name="Received offer?")+
-  xlab("Was interviewed?")
-
-
-ggsave(a, file="./images/postdoc_jobs.jpeg", width=20, height=15, units="cm", dpi=300)
-
-dat <- gs_title("job_search_INHS_director")
-
-datdat <- gs_read(dat) %>%
-  mutate(interview = ifelse(is.na(date_interview),"no response",
-                      ifelse(date_interview=="N","no","yes")),
-         offer = ifelse(is.na(offer),"accepted before decision", offer)) %>%
-  group_by(interview, offer) %>%
-  summarize(count =n())
-
-a <- ggplot(data=datdat, 
-            aes(x=interview, y=count, fill=offer, group=offer))+
-  geom_bar(position="dodge", stat="identity")+
-  scale_fill_manual(values=c("#7570b3","#d95f02","#1b9e77"),
-                    name="Received offer?")+
-  xlab("Was interviewed?")
-
-ggsave(a, file="./images/INHS_jobs.jpeg", width=20, height=15, units="cm", dpi=300)
-
-dat <- gs_title("job_search_INHS_director")
-
-datdat <- gs_read(dat) %>%
-            group_by(type) %>%
-            summarize(count = n())
-
-a <- ggplot(data=datdat, 
-            aes(x=type, y=count, fill=type))+
-  geom_bar(position="dodge", stat="identity")+
-  scale_fill_manual(values=c("#7570b3","#d95f02","#1b9e77","#e7298a"))+
-  xlab("Position Type")+
-  theme(legend.position = "none")
-
-
-ggsave(a, file="./images/INHS_jobs_types.jpeg", width=20, height=15, units="cm", dpi=300)
-
-
-dat <- gs_title("job_search_INHS_director")
-
-
-datdat <- gs_read(dat) %>%
-  group_by(state) %>%
-  summarize(countn = n())
-
-ms <- usa[usa$NAME_1 %in% datdat$state,]
-
-usa <- readRDS("~/GBNERR_wintermarshbirds/gis_data/USA_adm1.rds")
-can <- readRDS("~/GBNERR_wintermarshbirds/gis_data/CAN_adm1.rds")
-mex <- readRDS("~/GBNERR_wintermarshbirds/gis_data/MEX_adm1.rds")
-
-us <- map_data("state") 
-us <- dplyr::filter(us, region=="michigan"|region=="wisconsin")
-
-
-a <- ggplot()+
-  geom_polygon(data=can,aes(x=long,y=lat,group=group), col="black", fill="white")+
-  geom_polygon(data=mex,aes(x=long,y=lat,group=group), col="black", fill="white")+
-  geom_polygon(data=usa,aes(x=long,y=lat,group=group), col="black", fill="white")+
-  coord_map("albers",lat0=25, lat1=60,xlim=c(-125,-70),ylim=c(25,57))+
-  geom_polygon(data=ms, aes(x=long,y=lat,
-                                group=group),
-               color="black",fill="#7570b3")+
-  geom_polygon(data=us,aes(x=long,y=lat,group=group), col="black", fill=NA)
-
-ggsave(a, file="aurielfournier.github.io/images/INHS_jobs_geography.jpeg", width=20, height=15, units="cm", dpi=300)
-
+# 
+# 
+# ## JOBS
+# 
+# 
+# dat <- gs_title("data_on_job_MSU_result")
+# 
+# datdat <- gs_read(dat) %>%
+#         group_by(offer, interview) %>%
+#         summarize(count =n())
+# 
+# a <- ggplot(data=datdat, 
+#   aes(x=interview, y=count, fill=offer, group=offer))+
+#   geom_bar(position="dodge", stat="identity")+
+#   scale_fill_manual(values=c("#7570b3","#d95f02"),
+#                     name="Received offer?")+
+#   xlab("Was interviewed?")
+# 
+# 
+# ggsave(a, file="./images/postdoc_jobs.jpeg", width=20, height=15, units="cm", dpi=300)
+# 
+# dat <- gs_title("job_search_INHS_director")
+# 
+# datdat <- gs_read(dat) %>%
+#   mutate(interview = ifelse(is.na(date_interview),"no response",
+#                       ifelse(date_interview=="N","no","yes")),
+#          offer = ifelse(is.na(offer),"accepted before decision", offer)) %>%
+#   group_by(interview, offer) %>%
+#   summarize(count =n())
+# 
+# a <- ggplot(data=datdat, 
+#             aes(x=interview, y=count, fill=offer, group=offer))+
+#   geom_bar(position="dodge", stat="identity")+
+#   scale_fill_manual(values=c("#7570b3","#d95f02","#1b9e77"),
+#                     name="Received offer?")+
+#   xlab("Was interviewed?")
+# 
+# ggsave(a, file="./images/INHS_jobs.jpeg", width=20, height=15, units="cm", dpi=300)
+# 
+# dat <- gs_title("job_search_INHS_director")
+# 
+# datdat <- gs_read(dat) %>%
+#             group_by(type) %>%
+#             summarize(count = n())
+# 
+# a <- ggplot(data=datdat, 
+#             aes(x=type, y=count, fill=type))+
+#   geom_bar(position="dodge", stat="identity")+
+#   scale_fill_manual(values=c("#7570b3","#d95f02","#1b9e77","#e7298a"))+
+#   xlab("Position Type")+
+#   theme(legend.position = "none")
+# 
+# 
+# ggsave(a, file="./images/INHS_jobs_types.jpeg", width=20, height=15, units="cm", dpi=300)
+# 
+# 
+# dat <- gs_title("job_search_INHS_director")
+# 
+# 
+# datdat <- gs_read(dat) %>%
+#   group_by(state) %>%
+#   summarize(countn = n())
+# 
+# ms <- usa[usa$NAME_1 %in% datdat$state,]
+# 
+# usa <- readRDS("~/GBNERR_wintermarshbirds/gis_data/USA_adm1.rds")
+# can <- readRDS("~/GBNERR_wintermarshbirds/gis_data/CAN_adm1.rds")
+# mex <- readRDS("~/GBNERR_wintermarshbirds/gis_data/MEX_adm1.rds")
+# 
+# us <- map_data("state") 
+# us <- dplyr::filter(us, region=="michigan"|region=="wisconsin")
+# 
+# 
+# a <- ggplot()+
+#   geom_polygon(data=can,aes(x=long,y=lat,group=group), col="black", fill="white")+
+#   geom_polygon(data=mex,aes(x=long,y=lat,group=group), col="black", fill="white")+
+#   geom_polygon(data=usa,aes(x=long,y=lat,group=group), col="black", fill="white")+
+#   coord_map("albers",lat0=25, lat1=60,xlim=c(-125,-70),ylim=c(25,57))+
+#   geom_polygon(data=ms, aes(x=long,y=lat,
+#                                 group=group),
+#                color="black",fill="#7570b3")+
+#   geom_polygon(data=us,aes(x=long,y=lat,group=group), col="black", fill=NA)
+# 
+# ggsave(a, file="aurielfournier.github.io/images/INHS_jobs_geography.jpeg", width=20, height=15, units="cm", dpi=300)
+# 
