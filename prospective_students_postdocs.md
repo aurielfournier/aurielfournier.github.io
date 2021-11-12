@@ -14,4 +14,6 @@ At Forbes and amongst those who work with me, how we do our work and how we trea
 
 When I have funding to support bringing on a new student or postdoc, the ads will be posted here, as well as the Texas A&M Job Board and on Ornithology Exchange. I will not bring on folks without full funding support. 
 
+[MS Position - University of Illinois Urbana Champaign - Colorado Black Rails - Apply by Nov 30, 2021](https://aurielfournier.github.io/ms-co-blra/)
+
 I am always happy to collaborate on proposals for funding with interested candidates. Please send me an email (auriel@illinois.edu) expressing your interest in a particular research question, along with your CV.
