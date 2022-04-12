@@ -82,6 +82,29 @@ a <- plot_grid(m_by_rejects, m_by_desk,
 ggsave(a, file="./images/papers.jpeg", width=20, height=15, units="cm", dpi=300)
 
 
+
+
+desk<-ggplot(data=dat,
+             aes(x=year_submitted_first_time, y=months_between, color=published_yet))+
+  geom_jitter(size=3)+
+  ylab("Months from first sub to publication")+
+  theme_fournier()+
+  scale_color_manual(values=c("#1f78b4","#b2df8a"),)+
+  xlab("Year first submitted")+
+  theme(legend.position = c(0.2,0.8))+
+  guides(color=guide_legend(ncol=1, title="Paper Status"),
+         shape=guide_legend(ncol=1, title="Paper Status"))+
+  scale_x_continuous(breaks=c(2012,2014,2016,2018,2020,2022))
+
+
+
+
+ggsave(desk, file="./images/pubtime_over_time.jpeg", width=15, height=15, units="cm", dpi=300)
+
+
+
+
+
 # 
 # 
 # sumdat <- dat %>%
@@ -122,27 +145,6 @@ ggsave(a, file="./images/papers.jpeg", width=20, height=15, units="cm", dpi=300)
 # 
 # ggsave(a, file="./images/papers_over_time.jpeg", width=15, height=30, units="cm", dpi=300)
 # 
-
-
-
-desk<-ggplot(data=dat,
-             aes(x=year_submitted_first_time, y=months_between, color=published_yet))+
-  geom_jitter(size=3)+
-  ylab("Months from first sub to publication")+
-  theme_fournier()+
-  scale_color_manual(values=c("#1f78b4","#b2df8a"),)+
-  xlab("Year first submitted")+
-  theme(legend.position = c(0.2,0.8))+
-  guides(color=guide_legend(ncol=1, title="Paper Status"),
-         shape=guide_legend(ncol=1, title="Paper Status"))+
-  scale_x_continuous(breaks=c(2012,2014,2016,2018,2020,2022))
-
-
-
-
-ggsave(desk, file="./images/pubtime_over_time.jpeg", width=15, height=15, units="cm", dpi=300)
-
-
 
 
 
