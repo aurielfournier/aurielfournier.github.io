@@ -19,3 +19,4 @@ Fournier AMV, Holford AJ, Bond AL, Leighton MA (2019) Unpaid work and access to 
  
 Fournier AMV, Bond AL (2015) Volunteer field technicians are bad for wildlife ecology. Wildlife Society Bulletin 39(4):819–821.
 
+Colton, Hilary. (2022). The Price of Experience: An examination of zoo and aquarium internships. American Association of Zoo Keepers 49: 100-105
