@@ -34,7 +34,7 @@ m_by_desk <- ggplot(data=dat,
                         group=published_yet))+
   geom_point(size=2, aes(color=published_yet, shape=published_yet))+
   ylim(0,6)+
-  xlab("Months from first submission")+
+  xlab("Months from first submission ")+
   ylab("Desk Rejects")+
   theme(legend.position=c(0.75,0.8),
         legend.background = element_rect(colour = 'black', 
