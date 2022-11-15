@@ -1,5 +1,5 @@
 ---
-  layout: post
+layout: post
 title: New paper - Trends in Rail Migration Arrival and Departure Times Using Long-Term Citizen Science Data from Mississippi, USA
 comments: true
 ---
