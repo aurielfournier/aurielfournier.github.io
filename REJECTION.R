@@ -15,6 +15,8 @@ gs4_deauth()
 dat <- read_sheet("https://docs.google.com/spreadsheets/d/1HyhVgsRINRbu6vRYJJzSe7omQOK_41jtqyZmvv_iXjE/edit?usp=sharing") %>%
   filter(published_yet!="NA") 
 
+
+
 m_by_rejects <- ggplot(data=dat, 
                        aes(x=months_between, y=rejects, 
                            group=published_yet))+
@@ -168,7 +170,7 @@ a <- ggplot(data=datdat,
   geom_bar( stat="identity", color="black",
            position = position_dodge2(width = 0.9, preserve = "single"))+
   scale_fill_manual(values=c("#1f78b4","#1b9e77","#b2df8a"),
-                    name="Rejected?")+
+                    name="")+
   theme_fournier()
 
 
