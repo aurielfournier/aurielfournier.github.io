@@ -34,4 +34,5 @@ Auriel Fournier is the Director of the Forbes Biological Station, a part of the 
 [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) |
 [Github](https://github.com/aurielfournier) |
 [ORCID](http://orcid.org/0000-0002-8530-9968) |
+<a rel="me" href="https://spore.social/@RallidaeRule">Mastodon</a>
 
