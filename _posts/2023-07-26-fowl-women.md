@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Article - Fowl Women: Often unsung, women have made multifaceted contributions to waterfowl conservation
+title: New Article - Fowl Women - Often unsung, women have made multifaceted contributions to waterfowl conservation
 comments: true
 ---
 
