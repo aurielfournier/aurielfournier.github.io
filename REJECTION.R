@@ -57,7 +57,7 @@ rejects_hist <- ggplot(data=dat,
   annotate("text", label=paste0("Last Updated ", Sys.Date()), 
            x=3, y=12)+
   scale_x_continuous(breaks=0:6)+
-  scale_y_continuous(breaks=seq(0,14, by=2))+
+  scale_y_continuous(breaks=seq(0,22, by=2))+
   theme(axis.title.x=element_text(size=10))+
   theme_fournier()+
   ylab("Number of Papers")+
