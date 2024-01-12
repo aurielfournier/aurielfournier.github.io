@@ -13,7 +13,15 @@ gs4_deauth()
 
 
 dat <- read_sheet("https://docs.google.com/spreadsheets/d/1HyhVgsRINRbu6vRYJJzSe7omQOK_41jtqyZmvv_iXjE/edit?usp=sharing") %>%
-  filter(published_yet!="NA") 
+  filter(published_yet!="NA",
+         rejects!="NA") %>%
+  mutate(year_published = as.numeric(year_published),
+         rejects = as.numeric(rejects),
+         desk_rejects = as.numeric(desk_rejects),
+         review_rejects = as.numeric(review_rejects),
+         number_of_journals = as.numeric(number_of_journals),
+         year_submitted_first_time = as.numeric(year_submitted_first_time),
+         months_between = as.numeric(months_between))
 
 
 
@@ -55,7 +63,7 @@ rejects_hist <- ggplot(data=dat,
                        aes(x=rejects))+
   geom_histogram()+
   annotate("text", label=paste0("Last Updated ", Sys.Date()), 
-           x=3, y=12)+
+           x=3, y=16)+
   scale_x_continuous(breaks=0:6)+
   scale_y_continuous(breaks=seq(0,22, by=2))+
   theme(axis.title.x=element_text(size=10))+
