@@ -1,5 +1,5 @@
 ---
-  layout: post
+layout: post
 title: Promoted to Associate Research Scientist
 comments: true
 ---
