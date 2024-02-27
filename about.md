@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm the Director of [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) and an Assistant Research Scientist, Wetland Bird Ecologist with the Illinois Natural History Survey.
+I'm the Director of [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) and an Associate Research Scientist, Wetland Bird Ecologist with the Illinois Natural History Survey.
 
 <img align="right" src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/DSC_3871%20under100kb.jpg" width="441" height="677">
 
@@ -12,7 +12,7 @@ I'm an **applied conservation ecologist**, which basically means that I do scien
 
 As an **ornithologist**, I model the migratory connectivity of birds and work to better understand when they migrate and where. My favorite birds, hands down, are the rails. 
 
-As an **quanitative ecologist**, I use complex statistical models to account for the natural variation in the system to better understand if the management action or process at hand is influencing things. 
+As an **quantitative ecologist**, I use complex statistical models to account for the natural variation in the system to better understand if the management action or process at hand is influencing things. 
 
 As a **field ecologist**, I spend a lot of time getting ATVs unstuck, and fixing them, while also designing new survey methodologies for some of the most elusive birds. 
 
