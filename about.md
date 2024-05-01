@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm the Director of [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) and an Associate Research Scientist, Wetland Bird Ecologist with the Illinois Natural History Survey.
+I'm the Director of [Forbes Biological Station](https://forbes-bio-station.inhs.illinois.edu/) and an Associate Research Scientist, Wetland Bird Ecologist with the [Illinois Natural History Survey](inhs.illinois.edu/).
 
 <img align="right" src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/DSC_3871%20under100kb.jpg" width="441" height="677">
 
