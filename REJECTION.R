@@ -75,7 +75,7 @@ desk_hist <- ggplot(data=dat,
                     aes(x=desk_rejects))+
   geom_histogram()+
   theme(axis.title.x=element_text(size=10))+
-  scale_y_continuous(breaks=seq(0,21, by=3))+
+  scale_y_continuous(breaks=seq(0,33, by=3))+
   theme_fournier()+
   ylab("Number of Papers")+
   xlab("Desk rejections \n
