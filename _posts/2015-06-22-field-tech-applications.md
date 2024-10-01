@@ -4,11 +4,15 @@ title: How to Apply for a Field Job
 comments: true
 ---
 
+I originally wrote this in 2015 when I was a grad student hiring field techs. This advice still holds, and I hope folks applying for graduate positions will follow it as well. 
+
+
+
 I've been on both sides of the problem for several years now. I spent years applying for field technician positions, interviewing, and snagging a few, now I just finished hiring for my fourth field season of my PhD fieldwork. I'm something of a questioner, I'm always asking people for their thoughts on how to do things, and I've picked many brains about how to apply for field jobs and here are my take aways, for those who are coming up in the ranks. 
 
 - Disclaimer - these are my thoughts, disregard as you see fit, ESPECIALLY if a job positing specifically requests something
 
-## Read the Job Positing
+## Read the Job Posting
 
 - How do you fit the posting? What are _they_ looking for, and how is that you? Write down 3-4 things from the job positing that you fit, these are the talking points for your cover letter and interview. 
 
@@ -55,7 +59,7 @@ It frankly doesn't matter, I care about your post high school education. Its ok 
 
 I hate interviewing people, I feel really awkward about it, and I try to make it painless. Not everyone feels this way and interviews can be _rough_. 
 
-Many interviews for field jobs are over the phone, or skype, its a seasonal position so they aren't going to fly you out or anything. 
+Many interviews for field jobs are over the phone, or video call, its a seasonal position so they aren't going to fly you out or anything. 
 
 ### Tips for Phone interviews
 - Have a pad of paper in front of you (so you can make notes if you have questions while they are talking and you can fidget if you are nervous, also good for writing down bullet points of things you want to mention)
@@ -65,13 +69,13 @@ Many interviews for field jobs are over the phone, or skype, its a seasonal posi
 - answer the phone and say hello, don't just pick it up and sit there, quietly. 
 - spend 10 minutes before the interview thinking about the job posting, why you want it, what you can bring to the project
 
-### Tips for Skype Interviews
+### Tips for Video Interviews
 - Good Internet connection
 - Make sure you are in a place that is quiet
 - Wear pants :)
 - Wear clothes that are not-unprofessional (you don't have to dress up, but wear something appropriate, no profanity, etc)
 - Have a background that won't be distracting or inappropriate 
-- Be Patient, sometimes skype interviews have quirks and take a few moments to iron out
+- Be Patient, sometimes video interviews have quirks and take a few moments to iron out
 
 ### how to handle the questions
 
@@ -103,13 +107,11 @@ Sometimes you will interview for a job, and leave the interview with a weird fee
 
 Getting your first field job is daunting, and can be very difficult. Don't take it to hard when you send out dozens of resumes and don't get dozes of job offers (and yes, I encourage you to apply widely, especially at first). Don't limit yourself geographically if you can, don't limit yourself to a system or taxa, find projects that sound fun, that sound challenging, that sound like places you can grow. Field work is the best (except when its not) enjoy it. 
 
-_I haven't figured out comments on github yet, so if you have thoughts tweet at me (@RallidaeRule) or email me (aurielfournier@gmail.com). I'll make edits to expand this advice._
-
 
 ### Additions
 
 - Put everything in _one_ file with your full name in the file name  
-This makes it _so_ much easier for the person doing the hiring to work through files and find what they need. Its amazing how many files you end up with entited 'resume'. 
+This makes it _so_ much easier for the person doing the hiring to work through files and find what they need. Its amazing how many files you end up with entitled 'resume'. 
 
 - Assume that you will be googled  
 I chose not to do this, for a variety of reasons, but many employers will google you, or search for you on twitter or other social media. Make sure you are ok with what comes up when they do so. Best way to check this is to open an incognito window in a browser so you don't get searches based on your cookies, and search for yourself. Click through a few pages of results, you might be surprised. 
