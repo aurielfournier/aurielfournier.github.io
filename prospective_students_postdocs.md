@@ -14,4 +14,4 @@ At Forbes and amongst those who work with me, how we do our work and how we trea
 
 When I have funding to support bringing on a new student or postdoc, the ads will be posted here, as well as the Texas A&M Job Board and on Ornithology Exchange. I will not bring on folks without full funding support. 
 
-I am currently hiring a [MS student](http://aurielfournier.github.io/KIRA-MS/)
+[I wrote this post several years ago](http://aurielfournier.github.io/field-tech-applications/) about applying for field jobs, but the same advice applies for applying for graduate positions, so if you are applying for field jobs or graduate positions, especially with me, give it a read. 
