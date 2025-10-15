@@ -4,6 +4,8 @@ title: Prospective Students and Postdocs
 permalink: /prospective/
 ---
 
+**I am not currently taking on new students or postdocs, and I am not sure when I next will given funding uncertainty, at the soonest it would be fall of 2027 but it may be even further out then that** 
+
 As Director of [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) and an Assistant Research Scientist with the [Illinois Natural History Survey](https://www.inhs.illinois.edu/) I can supervise and mentor graduate students and postdocs. 
 
 Graduate students at Forbes can be academically based at several different institutions, including the University of Illinois Urbana-Champaign and Northern Illinois University among others, depending on the interest/needs of the student and project.  
