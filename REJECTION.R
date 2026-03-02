@@ -63,9 +63,9 @@ rejects_hist <- ggplot(data=dat,
                        aes(x=rejects))+
   geom_histogram()+
   annotate("text", label=paste0("Last Updated ", Sys.Date()), 
-           x=3, y=16)+
-  scale_x_continuous(breaks=0:6)+
-  scale_y_continuous(breaks=seq(0,60, by=2))+
+           x=3, y=25)+
+  scale_x_continuous(breaks=0:10)+
+  scale_y_continuous(breaks=seq(0,60, by=5))+
   theme(axis.title.x=element_text(size=10))+
   theme_fournier()+
   ylab("Number of Papers")+
@@ -75,7 +75,7 @@ desk_hist <- ggplot(data=dat,
                     aes(x=desk_rejects))+
   geom_histogram()+
   theme(axis.title.x=element_text(size=10))+
-  scale_y_continuous(breaks=seq(0,60, by=3))+
+  scale_y_continuous(breaks=seq(0,60, by=5))+
   theme_fournier()+
   ylab("Number of Papers")+
   xlab("Desk rejections \n
@@ -104,6 +104,7 @@ desk<-ggplot(data=dat,
   theme(legend.position = c(0.2,0.8))+
   guides(color=guide_legend(ncol=1, title="Paper Status"),
          shape=guide_legend(ncol=1, title="Paper Status"))+
+  scale_y_continuous(breaks=c(0,12,24,36,48,60))+
   scale_x_continuous(breaks=c(2012,2014,2016,2018,2020,2022,2024,2026))
 
 
