@@ -1,5 +1,5 @@
 ---
-  layout: post
+layout: post
 title: New Paper - Variation in cloacal microbiota of Canada goose (Branta canadensis) across rural and urban areas in Illinois, USA
 comments: true
 ---
